@@ -1,0 +1,90 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "http://www.uf.a.u-tokyo.ac.jp/tori/species/dobato/dobato.html",
+    "@type": "sc:Manifest",
+    "attribution": "農学生命科学研究科・農学部",
+    "label": "ドバト",
+    "license": "http://www.uf.a.u-tokyo.ac.jp/tori/",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "metadata": [
+        {
+            "label": "種名",
+            "value": "ドバト"
+        },
+        {
+            "label": "学名",
+            "value": "Columba livia"
+        },
+        {
+            "label": "目科",
+            "value": "ハト目ハト科"
+        },
+        {
+            "label": "千葉演習林",
+            "value": "記録なし"
+        },
+        {
+            "label": "北海道演習林",
+            "value": "記録なし"
+        },
+        {
+            "label": "秩父演習林",
+            "value": "記録なし"
+        },
+        {
+            "label": "田無演習林",
+            "value": "留鳥観察頻度は稀\r\n近年の記録なし"
+        },
+        {
+            "label": "生態水文学研究所",
+            "value": "記録なし"
+        },
+        {
+            "label": "富士癒しの森研究所",
+            "value": "記録なし"
+        },
+        {
+            "label": "樹芸研究所",
+            "value": "記録なし"
+        }
+    ],
+    "related": "http://www.uf.a.u-tokyo.ac.jp/tori/species/dobato/dobato.html",
+    "seeAlso": "https://da.dl.itc.u-tokyo.ac.jp/portal/assets/52f218b4-c2dc-4c88-b0df-78d6f08c54fa?_format=json",
+    "sequences": [
+        {
+            "@id": "http://www.uf.a.u-tokyo.ac.jp/tori/species/dobato/dobato.html/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "http://www.uf.a.u-tokyo.ac.jp/tori/species/dobato/dobato.html/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 500,
+                    "images": [
+                        {
+                            "@id": "http://www.uf.a.u-tokyo.ac.jp/tori/species/dobato/dobato.html/annotation/p1-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "http://www.uf.a.u-tokyo.ac.jp/tori/species/dobato/dobato.html/canvas/p1",
+                            "resource": {
+                                "@id": "http://www.uf.a.u-tokyo.ac.jp/tori/species/dobato/01.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 500,
+                                "width": 780
+                            }
+                        }
+                    ],
+                    "label": "[1]",
+                    "thumbnail": {
+                        "@id": "http://www.uf.a.u-tokyo.ac.jp/tori/species/dobato/01s.jpg"
+                    },
+                    "width": 780
+                }
+            ],
+            "label": "Current Page Order",
+            "viewingHint": "non-paged"
+        }
+    ],
+    "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/enshurin_tori/52f218b4-c2dc-4c88-b0df-78d6f08c54fa.jpg",
+    "within": "東京大学演習林の鳥たち"
+}

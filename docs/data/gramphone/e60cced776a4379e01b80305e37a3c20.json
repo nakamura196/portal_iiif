@@ -1,0 +1,49 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "http://umdb.um.u-tokyo.ac.jp/DImt/Gramophone/list/browserecord.php?-action=browse&-recid=379&-list=available",
+    "@type": "sc:Manifest",
+    "attribution": "総合研究博物館",
+    "label": "ポケット型 Pocket",
+    "license": "http://www.um.u-tokyo.ac.jp/information/contact.html",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "metadata": [],
+    "related": "http://umdb.um.u-tokyo.ac.jp/DImt/Gramophone/list/browserecord.php?-action=browse&-recid=379&-list=available",
+    "seeAlso": "https://da.dl.itc.u-tokyo.ac.jp/portal/assets/e60cced776a4379e01b80305e37a3c20?_format=json",
+    "sequences": [
+        {
+            "@id": "http://umdb.um.u-tokyo.ac.jp/DImt/Gramophone/list/browserecord.php?-action=browse&-recid=379&-list=available/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "http://umdb.um.u-tokyo.ac.jp/DImt/Gramophone/list/browserecord.php?-action=browse&-recid=379&-list=available/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 338,
+                    "images": [
+                        {
+                            "@id": "http://umdb.um.u-tokyo.ac.jp/DImt/Gramophone/list/browserecord.php?-action=browse&-recid=379&-list=available/annotation/p1-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "http://umdb.um.u-tokyo.ac.jp/DImt/Gramophone/list/browserecord.php?-action=browse&-recid=379&-list=available/canvas/p1",
+                            "resource": {
+                                "@id": "http://umdb.um.u-tokyo.ac.jp/DImt/Gramophone/JPG//268_16601.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 338,
+                                "width": 450
+                            }
+                        }
+                    ],
+                    "label": "[1]",
+                    "thumbnail": {
+                        "@id": "http://umdb.um.u-tokyo.ac.jp/DImt/Gramophone/JPG//268_16601.jpg"
+                    },
+                    "width": 450
+                }
+            ],
+            "label": "Current Page Order",
+            "viewingHint": "non-paged"
+        }
+    ],
+    "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/gramphone/e60cced776a4379e01b80305e37a3c20.jpg",
+    "within": "東京大学総合研究博物館所蔵蓄音機コレクション"
+}

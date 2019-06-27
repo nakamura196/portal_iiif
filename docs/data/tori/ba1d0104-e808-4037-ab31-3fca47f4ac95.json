@@ -1,0 +1,90 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "http://www.uf.a.u-tokyo.ac.jp/tori/species/yamashigi/yamashigi.html",
+    "@type": "sc:Manifest",
+    "attribution": "農学生命科学研究科・農学部",
+    "label": "ヤマシギ",
+    "license": "http://www.uf.a.u-tokyo.ac.jp/tori/",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "metadata": [
+        {
+            "label": "種名",
+            "value": "ヤマシギ"
+        },
+        {
+            "label": "学名",
+            "value": "Scolopax rusticola"
+        },
+        {
+            "label": "目科",
+            "value": "チドリ目シギ科"
+        },
+        {
+            "label": "千葉演習林",
+            "value": "記録なし"
+        },
+        {
+            "label": "北海道演習林",
+            "value": "夏鳥観察頻度は普通"
+        },
+        {
+            "label": "秩父演習林",
+            "value": "記録なし"
+        },
+        {
+            "label": "田無演習林",
+            "value": "留鳥\r\n観察頻度は稀"
+        },
+        {
+            "label": "生態水文学研究所",
+            "value": "留鳥\r\n観察頻度は稀"
+        },
+        {
+            "label": "富士癒しの森研究所",
+            "value": "夏鳥\r\n観察頻度は稀\r\n近年の記録なし"
+        },
+        {
+            "label": "樹芸研究所",
+            "value": "留鳥\r\n観察頻度は稀"
+        }
+    ],
+    "related": "http://www.uf.a.u-tokyo.ac.jp/tori/species/yamashigi/yamashigi.html",
+    "seeAlso": "https://da.dl.itc.u-tokyo.ac.jp/portal/assets/ba1d0104-e808-4037-ab31-3fca47f4ac95?_format=json",
+    "sequences": [
+        {
+            "@id": "http://www.uf.a.u-tokyo.ac.jp/tori/species/yamashigi/yamashigi.html/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "http://www.uf.a.u-tokyo.ac.jp/tori/species/yamashigi/yamashigi.html/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 500,
+                    "images": [
+                        {
+                            "@id": "http://www.uf.a.u-tokyo.ac.jp/tori/species/yamashigi/yamashigi.html/annotation/p1-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "http://www.uf.a.u-tokyo.ac.jp/tori/species/yamashigi/yamashigi.html/canvas/p1",
+                            "resource": {
+                                "@id": "http://www.uf.a.u-tokyo.ac.jp/tori/species/yamashigi/01.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 500,
+                                "width": 780
+                            }
+                        }
+                    ],
+                    "label": "[1]",
+                    "thumbnail": {
+                        "@id": "http://www.uf.a.u-tokyo.ac.jp/tori/species/yamashigi/01s.jpg"
+                    },
+                    "width": 780
+                }
+            ],
+            "label": "Current Page Order",
+            "viewingHint": "non-paged"
+        }
+    ],
+    "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/enshurin_tori/ba1d0104-e808-4037-ab31-3fca47f4ac95.jpg",
+    "within": "東京大学演習林の鳥たち"
+}
