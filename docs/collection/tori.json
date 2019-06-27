@@ -1,0 +1,827 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://nakamura196.github.io/portal_iiif/collection/tori.json",
+    "@type": "sc:Collection",
+    "label": "東京大学演習林の鳥たち",
+    "manifests": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/21542181-41cb-4450-82ef-59314c4104e3.json",
+            "@type": "sc:Manifest",
+            "label": "アオバト",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/enshurin_tori/21542181-41cb-4450-82ef-59314c4104e3.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/5afa6d59-8188-4df9-a08f-780c9f9b27ea.json",
+            "@type": "sc:Manifest",
+            "label": "ヤマゲラ",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/enshurin_tori/5afa6d59-8188-4df9-a08f-780c9f9b27ea.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/53e12479-c6c9-44ef-aced-43be297c5568.json",
+            "@type": "sc:Manifest",
+            "label": "カワウ",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/enshurin_tori/53e12479-c6c9-44ef-aced-43be297c5568.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/a38ea79b-f88f-45da-a70f-a773a4347354.json",
+            "@type": "sc:Manifest",
+            "label": "ハイタカ",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/enshurin_tori/a38ea79b-f88f-45da-a70f-a773a4347354.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/2f355221-8b44-4299-bb11-a81ca6603599.json",
+            "@type": "sc:Manifest",
+            "label": "ハシブトガラス",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/enshurin_tori/2f355221-8b44-4299-bb11-a81ca6603599.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/c682c04f-ca86-42d5-965e-912065f0f00c.json",
+            "@type": "sc:Manifest",
+            "label": "オオアカゲラ",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/enshurin_tori/c682c04f-ca86-42d5-965e-912065f0f00c.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/ae74414d-9f30-4713-8d25-e81c041a27a3.json",
+            "@type": "sc:Manifest",
+            "label": "ハクセキレイ",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/enshurin_tori/ae74414d-9f30-4713-8d25-e81c041a27a3.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/de0e1eb0-219b-4124-88a5-a9b520e9735d.json",
+            "@type": "sc:Manifest",
+            "label": "カワセミ",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/enshurin_tori/de0e1eb0-219b-4124-88a5-a9b520e9735d.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/18995bac-7a48-434d-98d2-e6991cf7e408.json",
+            "@type": "sc:Manifest",
+            "label": "ソウシチョウ",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/enshurin_tori/18995bac-7a48-434d-98d2-e6991cf7e408.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/afc78439-bdb3-47b3-9c04-fccd224da4dd.json",
+            "@type": "sc:Manifest",
+            "label": "クロジ",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/enshurin_tori/afc78439-bdb3-47b3-9c04-fccd224da4dd.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/13f55b49-438e-4859-925e-3bef812cad61.json",
+            "@type": "sc:Manifest",
+            "label": "アオサギ",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/enshurin_tori/13f55b49-438e-4859-925e-3bef812cad61.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/9d79ae61-7e5a-43fc-be64-832fac9b5ce1.json",
+            "@type": "sc:Manifest",
+            "label": "ニュウナイスズメ",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/enshurin_tori/9d79ae61-7e5a-43fc-be64-832fac9b5ce1.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/7a7753a9-543d-40be-a1e3-06acf15c0da2.json",
+            "@type": "sc:Manifest",
+            "label": "ヤブサメ",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/enshurin_tori/7a7753a9-543d-40be-a1e3-06acf15c0da2.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/2cbb219d-e148-441c-8503-e0397483e2e1.json",
+            "@type": "sc:Manifest",
+            "label": "イワヒバリ",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/enshurin_tori/2cbb219d-e148-441c-8503-e0397483e2e1.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/3a08e5fa-3f2f-4ed8-9093-051444125e7f.json",
+            "@type": "sc:Manifest",
+            "label": "ホシガラス",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/enshurin_tori/3a08e5fa-3f2f-4ed8-9093-051444125e7f.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/5eb613e7-6eb9-4e3d-bfc7-81073d2df3dc.json",
+            "@type": "sc:Manifest",
+            "label": "ベニマシコ",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/enshurin_tori/5eb613e7-6eb9-4e3d-bfc7-81073d2df3dc.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/9e6f59d5-5a46-4c37-9714-c428d8a85254.json",
+            "@type": "sc:Manifest",
+            "label": "ツグミ",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/enshurin_tori/9e6f59d5-5a46-4c37-9714-c428d8a85254.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/0473986b-d6d2-4e6f-bfa4-e9cf48ab668e.json",
+            "@type": "sc:Manifest",
+            "label": "オオタカ",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/enshurin_tori/0473986b-d6d2-4e6f-bfa4-e9cf48ab668e.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/7447f64c-7f36-4099-9f34-bd9d3ca8aa72.json",
+            "@type": "sc:Manifest",
+            "label": "エゾライチョウ",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/enshurin_tori/7447f64c-7f36-4099-9f34-bd9d3ca8aa72.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/b058ac6e-2395-4d47-ba21-017e88f31568.json",
+            "@type": "sc:Manifest",
+            "label": "コガモ",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/enshurin_tori/b058ac6e-2395-4d47-ba21-017e88f31568.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/8d7d657f-69ab-49de-94bd-11276d6b84c3.json",
+            "@type": "sc:Manifest",
+            "label": "コガラ",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/enshurin_tori/8d7d657f-69ab-49de-94bd-11276d6b84c3.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/f094138d-ee6e-46ae-a3c5-a094eeac1ac6.json",
+            "@type": "sc:Manifest",
+            "label": "シロハラ",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/enshurin_tori/f094138d-ee6e-46ae-a3c5-a094eeac1ac6.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/615c2aee-5227-4a3a-8c72-f43c1f9e2ff9.json",
+            "@type": "sc:Manifest",
+            "label": "ホオジロ",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/enshurin_tori/615c2aee-5227-4a3a-8c72-f43c1f9e2ff9.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/ccb601db-5a2d-4fbc-a5d0-25758146c1e0.json",
+            "@type": "sc:Manifest",
+            "label": "センダイムシクイ",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/enshurin_tori/ccb601db-5a2d-4fbc-a5d0-25758146c1e0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/51339a52-d491-4202-b90c-6bfdfd575962.json",
+            "@type": "sc:Manifest",
+            "label": "カケス",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/enshurin_tori/51339a52-d491-4202-b90c-6bfdfd575962.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/ed6b141a-81f6-4c4b-af21-c68c8adaf135.json",
+            "@type": "sc:Manifest",
+            "label": "トラツグミ",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/enshurin_tori/ed6b141a-81f6-4c4b-af21-c68c8adaf135.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/d40ccab6-905c-4c2f-86dc-e1a1ae53d1f2.json",
+            "@type": "sc:Manifest",
+            "label": "キレンジャク",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/enshurin_tori/d40ccab6-905c-4c2f-86dc-e1a1ae53d1f2.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/52f218b4-c2dc-4c88-b0df-78d6f08c54fa.json",
+            "@type": "sc:Manifest",
+            "label": "ドバト",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/enshurin_tori/52f218b4-c2dc-4c88-b0df-78d6f08c54fa.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/5d4b3887-bc02-4456-8be1-5e629eeeff27.json",
+            "@type": "sc:Manifest",
+            "label": "キバシリ",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/enshurin_tori/5d4b3887-bc02-4456-8be1-5e629eeeff27.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/50b89c72-7e78-41a6-aa71-1a9582e2fd2d.json",
+            "@type": "sc:Manifest",
+            "label": "クサシギ",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/enshurin_tori/50b89c72-7e78-41a6-aa71-1a9582e2fd2d.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/408ad840-804d-4249-bf77-b7a75b53bdb8.json",
+            "@type": "sc:Manifest",
+            "label": "ノスリ",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/enshurin_tori/408ad840-804d-4249-bf77-b7a75b53bdb8.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/d02f3fd0-8ae9-4a3b-9191-c03894c63bac.json",
+            "@type": "sc:Manifest",
+            "label": "マガモ",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/enshurin_tori/d02f3fd0-8ae9-4a3b-9191-c03894c63bac.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/66d70d65-d9af-476f-b796-d936718941f5.json",
+            "@type": "sc:Manifest",
+            "label": "アカハラ",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/enshurin_tori/66d70d65-d9af-476f-b796-d936718941f5.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/3d59595a-33f1-47ca-b701-2c74b72a34ca.json",
+            "@type": "sc:Manifest",
+            "label": "オジロワシ",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/enshurin_tori/3d59595a-33f1-47ca-b701-2c74b72a34ca.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/2082ac3f-4650-4e8f-a174-8f02e0492a8d.json",
+            "@type": "sc:Manifest",
+            "label": "フクロウ",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/enshurin_tori/2082ac3f-4650-4e8f-a174-8f02e0492a8d.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/8d56ed03-e49e-4119-8de5-d3a459fa36d8.json",
+            "@type": "sc:Manifest",
+            "label": "オオワシ",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/enshurin_tori/8d56ed03-e49e-4119-8de5-d3a459fa36d8.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/9ef4f30e-a7a5-4b79-9a80-816860136c83.json",
+            "@type": "sc:Manifest",
+            "label": "アオゲラ",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/enshurin_tori/9ef4f30e-a7a5-4b79-9a80-816860136c83.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/ba5df2be-7cce-4d6f-8ded-f6c0ea484128.json",
+            "@type": "sc:Manifest",
+            "label": "ノビタキ",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/enshurin_tori/ba5df2be-7cce-4d6f-8ded-f6c0ea484128.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/a24e5f21-c6e2-4a45-a9dc-b0fcc63a19ec.json",
+            "@type": "sc:Manifest",
+            "label": "キジバト",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/enshurin_tori/a24e5f21-c6e2-4a45-a9dc-b0fcc63a19ec.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/16daaccb-cf50-4e77-96ea-d3e587b5b8eb.json",
+            "@type": "sc:Manifest",
+            "label": "コムクドリ",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/enshurin_tori/16daaccb-cf50-4e77-96ea-d3e587b5b8eb.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/c15c620c-15b1-4d27-85b7-4cf1fe15d1ba.json",
+            "@type": "sc:Manifest",
+            "label": "モズ",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/enshurin_tori/c15c620c-15b1-4d27-85b7-4cf1fe15d1ba.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/40d55a6d-7b0f-4654-898d-c487bc0fffed.json",
+            "@type": "sc:Manifest",
+            "label": "アマツバメ",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/enshurin_tori/40d55a6d-7b0f-4654-898d-c487bc0fffed.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/ba1d0104-e808-4037-ab31-3fca47f4ac95.json",
+            "@type": "sc:Manifest",
+            "label": "ヤマシギ",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/enshurin_tori/ba1d0104-e808-4037-ab31-3fca47f4ac95.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/87823692-f01d-4320-92db-9c9a91cf3e0c.json",
+            "@type": "sc:Manifest",
+            "label": "カワガラス",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/enshurin_tori/87823692-f01d-4320-92db-9c9a91cf3e0c.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/ee0f5d8b-efa3-4762-97c1-2cc5a4688f67.json",
+            "@type": "sc:Manifest",
+            "label": "コサギ",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/enshurin_tori/ee0f5d8b-efa3-4762-97c1-2cc5a4688f67.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/45f02e82-e7e8-4725-b06a-3bfb597242a6.json",
+            "@type": "sc:Manifest",
+            "label": "カワラヒワ",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/enshurin_tori/45f02e82-e7e8-4725-b06a-3bfb597242a6.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/35503381-0825-488c-b514-8079f105223b.json",
+            "@type": "sc:Manifest",
+            "label": "ヒバリ",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/enshurin_tori/35503381-0825-488c-b514-8079f105223b.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/013cef67-3e4a-40b5-b489-c871c44cd240.json",
+            "@type": "sc:Manifest",
+            "label": "カシラダカ",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/enshurin_tori/013cef67-3e4a-40b5-b489-c871c44cd240.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/93392e79-b15f-4cfa-acf1-20e188b4906e.json",
+            "@type": "sc:Manifest",
+            "label": "キビタキ",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/enshurin_tori/93392e79-b15f-4cfa-acf1-20e188b4906e.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/642c4a33-84d8-486e-978a-1a0830aaef39.json",
+            "@type": "sc:Manifest",
+            "label": "アカゲラ",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/enshurin_tori/642c4a33-84d8-486e-978a-1a0830aaef39.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/5dc8b2e1-5321-4776-a079-842ed2e3d21f.json",
+            "@type": "sc:Manifest",
+            "label": "ゴジュウカラ",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/enshurin_tori/5dc8b2e1-5321-4776-a079-842ed2e3d21f.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/5dbc222a-8b09-4082-8c4d-d03022edb0ff.json",
+            "@type": "sc:Manifest",
+            "label": "ベニヒワ",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/enshurin_tori/5dbc222a-8b09-4082-8c4d-d03022edb0ff.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/968f6142-043d-4073-a19a-ca8fde935564.json",
+            "@type": "sc:Manifest",
+            "label": "オオコノハズク",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/enshurin_tori/968f6142-043d-4073-a19a-ca8fde935564.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/4dfdd5d3-6d87-410e-82bc-410a6f59cff4.json",
+            "@type": "sc:Manifest",
+            "label": "マヒワ",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/enshurin_tori/4dfdd5d3-6d87-410e-82bc-410a6f59cff4.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/76a6a117-c67b-4ca8-a3d4-1c10ff03e70a.json",
+            "@type": "sc:Manifest",
+            "label": "ツツドリ",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/enshurin_tori/76a6a117-c67b-4ca8-a3d4-1c10ff03e70a.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/b087583a-dd51-4e7d-9548-8db9fe265050.json",
+            "@type": "sc:Manifest",
+            "label": "ハヤブサ",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/enshurin_tori/b087583a-dd51-4e7d-9548-8db9fe265050.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/f3facddc-9c5c-48d8-b694-8726a3a39b8d.json",
+            "@type": "sc:Manifest",
+            "label": "ノゴマ",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/enshurin_tori/f3facddc-9c5c-48d8-b694-8726a3a39b8d.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/cd50707c-73f2-4fdb-9e3b-bf46fc5915a1.json",
+            "@type": "sc:Manifest",
+            "label": "オシドリ",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/enshurin_tori/cd50707c-73f2-4fdb-9e3b-bf46fc5915a1.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/e5c25aa0-c8bb-42a8-9e4c-ffc7b2ed7f6e.json",
+            "@type": "sc:Manifest",
+            "label": "コサメビタキ",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/enshurin_tori/e5c25aa0-c8bb-42a8-9e4c-ffc7b2ed7f6e.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/3397cde2-7c00-4cfc-8034-5833c435df5f.json",
+            "@type": "sc:Manifest",
+            "label": "チョウゲンボウ",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/enshurin_tori/3397cde2-7c00-4cfc-8034-5833c435df5f.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/7c15e9ee-cd55-4f71-b708-481df19990ff.json",
+            "@type": "sc:Manifest",
+            "label": "カルガモ",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/enshurin_tori/7c15e9ee-cd55-4f71-b708-481df19990ff.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/30ba9a34-9706-4e5b-b6da-59a193846790.json",
+            "@type": "sc:Manifest",
+            "label": "イソシギ",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/enshurin_tori/30ba9a34-9706-4e5b-b6da-59a193846790.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/63e180bb-01ae-499c-a472-b1892636b74b.json",
+            "@type": "sc:Manifest",
+            "label": "クマゲラ",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/enshurin_tori/63e180bb-01ae-499c-a472-b1892636b74b.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/9a2ec26a-d142-4fdc-8eed-951651d876e1.json",
+            "@type": "sc:Manifest",
+            "label": "メジロ",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/enshurin_tori/9a2ec26a-d142-4fdc-8eed-951651d876e1.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/613d2921-d492-464e-a5fb-47b7c50ef106.json",
+            "@type": "sc:Manifest",
+            "label": "キジ",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/enshurin_tori/613d2921-d492-464e-a5fb-47b7c50ef106.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/e7c230b8-2f34-4eee-93ed-21dda75338a6.json",
+            "@type": "sc:Manifest",
+            "label": "ヒヨドリ",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/enshurin_tori/e7c230b8-2f34-4eee-93ed-21dda75338a6.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/cce96453-c8d8-46ff-891f-921ae486695c.json",
+            "@type": "sc:Manifest",
+            "label": "ハギマシコ",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/enshurin_tori/cce96453-c8d8-46ff-891f-921ae486695c.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/b8210b7f-6d89-4651-8d52-3bacb9b7ec59.json",
+            "@type": "sc:Manifest",
+            "label": "トビ",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/enshurin_tori/b8210b7f-6d89-4651-8d52-3bacb9b7ec59.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/9b7a883c-234b-4875-9c49-0eef21542717.json",
+            "@type": "sc:Manifest",
+            "label": "ハシボソガラス",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/enshurin_tori/9b7a883c-234b-4875-9c49-0eef21542717.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/74bf9c97-24ab-4e61-90f5-d84a119cd074.json",
+            "@type": "sc:Manifest",
+            "label": "ジョウビタキ",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/enshurin_tori/74bf9c97-24ab-4e61-90f5-d84a119cd074.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/22c3aef5-0afd-405b-a8b9-0a90320d7980.json",
+            "@type": "sc:Manifest",
+            "label": "シメ",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/enshurin_tori/22c3aef5-0afd-405b-a8b9-0a90320d7980.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/6e9dc5f0-1e2a-4f67-aea6-983d63707cf4.json",
+            "@type": "sc:Manifest",
+            "label": "ギンザンマシコ",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/enshurin_tori/6e9dc5f0-1e2a-4f67-aea6-983d63707cf4.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/859b2976-61bc-4299-9e43-55d6e8f37cac.json",
+            "@type": "sc:Manifest",
+            "label": "ミゾゴイ",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/enshurin_tori/859b2976-61bc-4299-9e43-55d6e8f37cac.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/c61f9b31-8de3-4dbc-933c-ddcd693aaeec.json",
+            "@type": "sc:Manifest",
+            "label": "キセキレイ",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/enshurin_tori/c61f9b31-8de3-4dbc-933c-ddcd693aaeec.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/a421566a-e664-44dd-a62c-f537dbb3c0c3.json",
+            "@type": "sc:Manifest",
+            "label": "ゴイサギ",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/enshurin_tori/a421566a-e664-44dd-a62c-f537dbb3c0c3.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/54f3d360-779d-4912-8313-7d0d95a03dc1.json",
+            "@type": "sc:Manifest",
+            "label": "ヤマセミ",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/enshurin_tori/54f3d360-779d-4912-8313-7d0d95a03dc1.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/76b20a37-0dfa-42e3-b20c-e467bc00de0a.json",
+            "@type": "sc:Manifest",
+            "label": "ヤマガラ",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/enshurin_tori/76b20a37-0dfa-42e3-b20c-e467bc00de0a.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/f510f4db-0f9e-4db9-a829-d4d76db26880.json",
+            "@type": "sc:Manifest",
+            "label": "ヒガラ",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/enshurin_tori/f510f4db-0f9e-4db9-a829-d4d76db26880.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/833064fb-df9a-4e3b-8bb0-fbc75abfc02f.json",
+            "@type": "sc:Manifest",
+            "label": "アオジ",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/enshurin_tori/833064fb-df9a-4e3b-8bb0-fbc75abfc02f.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/2cbcbcd5-eb9f-40fa-ae57-ff2fd403d64a.json",
+            "@type": "sc:Manifest",
+            "label": "ミソサザイ",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/enshurin_tori/2cbcbcd5-eb9f-40fa-ae57-ff2fd403d64a.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/692944f5-4aa4-4f9e-9bcd-a98c820c4b84.json",
+            "@type": "sc:Manifest",
+            "label": "オオルリ",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/enshurin_tori/692944f5-4aa4-4f9e-9bcd-a98c820c4b84.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/3fcd4426-6a4c-46a8-bd24-5aa2eb94827a.json",
+            "@type": "sc:Manifest",
+            "label": "ガビチョウ",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/enshurin_tori/3fcd4426-6a4c-46a8-bd24-5aa2eb94827a.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/7bbdf63d-1efa-4cc6-9938-a863bf44ba99.json",
+            "@type": "sc:Manifest",
+            "label": "ミヤマホオジロ",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/enshurin_tori/7bbdf63d-1efa-4cc6-9938-a863bf44ba99.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/0ecd55b2-dffc-46bd-bfef-0954a28f9c31.json",
+            "@type": "sc:Manifest",
+            "label": "シジュウカラ",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/enshurin_tori/0ecd55b2-dffc-46bd-bfef-0954a28f9c31.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/a1cc8119-d7b3-4700-aac8-9a090b81174c.json",
+            "@type": "sc:Manifest",
+            "label": "ツバメ",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/enshurin_tori/a1cc8119-d7b3-4700-aac8-9a090b81174c.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/82a0b7dd-60a5-409d-9f50-c0b78067041f.json",
+            "@type": "sc:Manifest",
+            "label": "コマドリ",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/enshurin_tori/82a0b7dd-60a5-409d-9f50-c0b78067041f.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/b5a8797a-23f2-47ea-b540-fadb3aba15f7.json",
+            "@type": "sc:Manifest",
+            "label": "ヒレンジャク",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/enshurin_tori/b5a8797a-23f2-47ea-b540-fadb3aba15f7.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/9fd30f33-1de0-4dd8-9a64-da42f42e4741.json",
+            "@type": "sc:Manifest",
+            "label": "イソヒヨドリ",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/enshurin_tori/9fd30f33-1de0-4dd8-9a64-da42f42e4741.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/b1a2a77d-5247-4c96-9b72-e48cdbedd983.json",
+            "@type": "sc:Manifest",
+            "label": "セグロセキレイ",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/enshurin_tori/b1a2a77d-5247-4c96-9b72-e48cdbedd983.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/792a9c2a-6f6f-4590-ba41-eebfa894935e.json",
+            "@type": "sc:Manifest",
+            "label": "クロツグミ",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/enshurin_tori/792a9c2a-6f6f-4590-ba41-eebfa894935e.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/1f951210-ed5c-4c4f-906f-f6afe7329922.json",
+            "@type": "sc:Manifest",
+            "label": "エナガ",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/enshurin_tori/1f951210-ed5c-4c4f-906f-f6afe7329922.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/dcb81baf-2214-49d7-9db8-a0b911b8ec05.json",
+            "@type": "sc:Manifest",
+            "label": "カヤクグリ",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/enshurin_tori/dcb81baf-2214-49d7-9db8-a0b911b8ec05.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/942bb87d-0902-4115-83fa-b2bab76edeb3.json",
+            "@type": "sc:Manifest",
+            "label": "ホオアカ",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/enshurin_tori/942bb87d-0902-4115-83fa-b2bab76edeb3.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/a179be1b-b919-4042-a07c-8520e74a37c9.json",
+            "@type": "sc:Manifest",
+            "label": "ウソ",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/enshurin_tori/a179be1b-b919-4042-a07c-8520e74a37c9.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/7b34ca51-a577-48dc-9c45-3034e6ed2c5f.json",
+            "@type": "sc:Manifest",
+            "label": "キクイタダキ",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/enshurin_tori/7b34ca51-a577-48dc-9c45-3034e6ed2c5f.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/fd1b219d-d52a-4290-8fb5-a00665ae0b56.json",
+            "@type": "sc:Manifest",
+            "label": "アトリ",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/enshurin_tori/fd1b219d-d52a-4290-8fb5-a00665ae0b56.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/76036f3d-9b9c-4503-847a-1ce2db2cfd09.json",
+            "@type": "sc:Manifest",
+            "label": "クマタカ",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/enshurin_tori/76036f3d-9b9c-4503-847a-1ce2db2cfd09.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/5adebf44-7711-4de2-b339-4d78617725b1.json",
+            "@type": "sc:Manifest",
+            "label": "ヤマドリ",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/enshurin_tori/5adebf44-7711-4de2-b339-4d78617725b1.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/9112db00-6313-4652-90f7-73a3ff4b4c90.json",
+            "@type": "sc:Manifest",
+            "label": "ウグイス",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/enshurin_tori/9112db00-6313-4652-90f7-73a3ff4b4c90.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/70c7ab50-02bd-4877-8e6b-1296615053dc.json",
+            "@type": "sc:Manifest",
+            "label": "コジュケイ",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/enshurin_tori/70c7ab50-02bd-4877-8e6b-1296615053dc.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/41a81655-674f-404c-a534-4a92455b055a.json",
+            "@type": "sc:Manifest",
+            "label": "ムクドリ",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/enshurin_tori/41a81655-674f-404c-a534-4a92455b055a.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/b6b46ad8-c079-4f5b-940f-17bdf07e71f8.json",
+            "@type": "sc:Manifest",
+            "label": "イスカ",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/enshurin_tori/b6b46ad8-c079-4f5b-940f-17bdf07e71f8.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/ad2e9a33-ac37-493d-b0fb-6128d733526f.json",
+            "@type": "sc:Manifest",
+            "label": "オナガ",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/enshurin_tori/ad2e9a33-ac37-493d-b0fb-6128d733526f.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/971c6d2c-9610-4319-aaf4-b9a816105a79.json",
+            "@type": "sc:Manifest",
+            "label": "ルリビタキ",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/enshurin_tori/971c6d2c-9610-4319-aaf4-b9a816105a79.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/501a08f1-f442-4d6a-b8f9-ca0f64478584.json",
+            "@type": "sc:Manifest",
+            "label": "ビンズイ",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/enshurin_tori/501a08f1-f442-4d6a-b8f9-ca0f64478584.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/d82213bd-7ff3-478d-afba-09e8833f0b58.json",
+            "@type": "sc:Manifest",
+            "label": "サンコウチョウ",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/enshurin_tori/d82213bd-7ff3-478d-afba-09e8833f0b58.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/dc22cfcc-23c9-4cb7-96ce-d3eefbd50933.json",
+            "@type": "sc:Manifest",
+            "label": "コゲラ",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/enshurin_tori/dc22cfcc-23c9-4cb7-96ce-d3eefbd50933.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/aeb64456-b335-41f1-b76a-383bbb0fc79c.json",
+            "@type": "sc:Manifest",
+            "label": "ダイサギ",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/enshurin_tori/aeb64456-b335-41f1-b76a-383bbb0fc79c.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/9dff42fc-2faa-455d-8a7a-425fef12bc58.json",
+            "@type": "sc:Manifest",
+            "label": "オオジシギ",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/enshurin_tori/9dff42fc-2faa-455d-8a7a-425fef12bc58.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/4e1dd9bb-94d8-4909-ba4f-ba469f0d61b4.json",
+            "@type": "sc:Manifest",
+            "label": "スズメ",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/enshurin_tori/4e1dd9bb-94d8-4909-ba4f-ba469f0d61b4.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/b42d0004-3738-462d-8a19-4493da656ed3.json",
+            "@type": "sc:Manifest",
+            "label": "イカル",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/enshurin_tori/b42d0004-3738-462d-8a19-4493da656ed3.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/9a46bf86-ccbb-4372-9eb9-432c7a73d896.json",
+            "@type": "sc:Manifest",
+            "label": "コルリ",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/enshurin_tori/9a46bf86-ccbb-4372-9eb9-432c7a73d896.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/62180514-2af8-4a88-affd-ae81d2c1dda0.json",
+            "@type": "sc:Manifest",
+            "label": "コチドリ",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/enshurin_tori/62180514-2af8-4a88-affd-ae81d2c1dda0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/dc8fe619-058c-4a76-85f2-0c53145bf5f8.json",
+            "@type": "sc:Manifest",
+            "label": "ミサゴ",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/enshurin_tori/dc8fe619-058c-4a76-85f2-0c53145bf5f8.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/a4014c51-2098-4710-929c-a4406e9bf9fa.json",
+            "@type": "sc:Manifest",
+            "label": "サンショウクイ",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/enshurin_tori/a4014c51-2098-4710-929c-a4406e9bf9fa.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/84d3143a-8649-4a57-8642-db8a46b1dfd8.json",
+            "@type": "sc:Manifest",
+            "label": "チゴハヤブサ",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/enshurin_tori/84d3143a-8649-4a57-8642-db8a46b1dfd8.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/588d769f-0255-45cc-8ca3-a59ac80f066b.json",
+            "@type": "sc:Manifest",
+            "label": "ノジコ",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/enshurin_tori/588d769f-0255-45cc-8ca3-a59ac80f066b.jpg"
+        }
+    ]
+}

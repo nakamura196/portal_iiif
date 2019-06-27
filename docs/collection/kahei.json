@@ -1,0 +1,1051 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://nakamura196.github.io/portal_iiif/collection/kahei.json",
+    "@type": "sc:Collection",
+    "label": "古貨幣・古札統合データベース",
+    "manifests": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/3b69f595bccf49c1aba38565036145bf.json",
+            "@type": "sc:Manifest",
+            "label": "1サンチーム銅貨",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/3b69f595bccf49c1aba38565036145bf_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/fdc932a783ec7cf58dc6aaa034c5ca1e.json",
+            "@type": "sc:Manifest",
+            "label": "1サンチーム銅貨",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/fdc932a783ec7cf58dc6aaa034c5ca1e_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/1aab2b8e991ef9f80830056c77d11da4.json",
+            "@type": "sc:Manifest",
+            "label": "1サンチーム銅貨",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/1aab2b8e991ef9f80830056c77d11da4_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/9bea5a943eef811f05fd69f426e09ccb.json",
+            "@type": "sc:Manifest",
+            "label": "2文銅貨",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/9bea5a943eef811f05fd69f426e09ccb_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/ac71129a78ac4126a429703525c1fc38.json",
+            "@type": "sc:Manifest",
+            "label": "シャム陶銭",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/ac71129a78ac4126a429703525c1fc38_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/ab39a0ef9d4a44c7a1f11535de4cb58d.json",
+            "@type": "sc:Manifest",
+            "label": "シャム陶銭",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/ab39a0ef9d4a44c7a1f11535de4cb58d_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/7a26c4151fe2f16671ee425c6354b1ac.json",
+            "@type": "sc:Manifest",
+            "label": "1セント青銅貨",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/7a26c4151fe2f16671ee425c6354b1ac_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/c68461fbfcbaea97d646c3911308b823.json",
+            "@type": "sc:Manifest",
+            "label": "2文銅貨",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/c68461fbfcbaea97d646c3911308b823_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/7977dcecfab9b1f667b3a23d1f84104d.json",
+            "@type": "sc:Manifest",
+            "label": "シャム陶銭",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/7977dcecfab9b1f667b3a23d1f84104d_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/da91c744fda31c85c010bbd0f17272a6.json",
+            "@type": "sc:Manifest",
+            "label": "シャム陶銭",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/da91c744fda31c85c010bbd0f17272a6_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/b51ef1f3e2cee66a98e2836d9eb8ad90.json",
+            "@type": "sc:Manifest",
+            "label": "シャム陶銭",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/b51ef1f3e2cee66a98e2836d9eb8ad90_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/05a05506a87fa3042b9093b311923c0f.json",
+            "@type": "sc:Manifest",
+            "label": "1センタボ青銅貨",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/05a05506a87fa3042b9093b311923c0f_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/6ec6fe62fc6539e5d04c568a92f20c1f.json",
+            "@type": "sc:Manifest",
+            "label": "シャム陶銭",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/6ec6fe62fc6539e5d04c568a92f20c1f_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/8ed65380adb071c8dd74c3b877f6559d.json",
+            "@type": "sc:Manifest",
+            "label": "シャム陶銭",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/8ed65380adb071c8dd74c3b877f6559d_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/8aa51132f78ec25a3a6b2b67b2548ac7.json",
+            "@type": "sc:Manifest",
+            "label": "1セント銅貨",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/8aa51132f78ec25a3a6b2b67b2548ac7_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/ce8708a872a02e1f04760b5389a5a13d.json",
+            "@type": "sc:Manifest",
+            "label": "シャム陶銭",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/ce8708a872a02e1f04760b5389a5a13d_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/c524f26cefc381a92da3101a133553a5.json",
+            "@type": "sc:Manifest",
+            "label": "シャム1／8チカル銀貨",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/c524f26cefc381a92da3101a133553a5_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/551186eae653e7372865a55dbc4bd4ef.json",
+            "@type": "sc:Manifest",
+            "label": "シャム陶銭",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/551186eae653e7372865a55dbc4bd4ef_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/7d5970de7dd3808544faa4493745f8c7.json",
+            "@type": "sc:Manifest",
+            "label": "1センタボ青銅貨",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/7d5970de7dd3808544faa4493745f8c7_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/2feffbbd5494f69bfd0247c16527bcb5.json",
+            "@type": "sc:Manifest",
+            "label": "シャム陶銭",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/2feffbbd5494f69bfd0247c16527bcb5_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/d85518897a88f56b532feb04134aa9f8.json",
+            "@type": "sc:Manifest",
+            "label": "2文銅貨",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/d85518897a88f56b532feb04134aa9f8_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/ca4bd1edd3d3da0761a06f69c8aad3f9.json",
+            "@type": "sc:Manifest",
+            "label": "1サンチーム銅貨",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/ca4bd1edd3d3da0761a06f69c8aad3f9_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/dd6a7d505c419ca7cba7181fd2e1f8d1.json",
+            "@type": "sc:Manifest",
+            "label": "シャム1チカル銀貨",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/dd6a7d505c419ca7cba7181fd2e1f8d1_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/5cb0a997a27f57c67283b6f1614ac4a6.json",
+            "@type": "sc:Manifest",
+            "label": "1フランアルミ青銅貨",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/5cb0a997a27f57c67283b6f1614ac4a6_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/35e410c49c80af481ab496d99e91f95a.json",
+            "@type": "sc:Manifest",
+            "label": "かせ糸代切手",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/35e410c49c80af481ab496d99e91f95a_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/a0459521968c7e2f9923068dd7f4436c.json",
+            "@type": "sc:Manifest",
+            "label": "シャム陶銭",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/a0459521968c7e2f9923068dd7f4436c_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/70a9ad789362862028bc8bdb9e6b2756.json",
+            "@type": "sc:Manifest",
+            "label": "2文銅貨",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/70a9ad789362862028bc8bdb9e6b2756_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/e3e07cdbbc31ec3a79c771834bb2231c.json",
+            "@type": "sc:Manifest",
+            "label": "?州軍餉",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/e3e07cdbbc31ec3a79c771834bb2231c_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/1772c19c8669df60ea928157d1073dd3.json",
+            "@type": "sc:Manifest",
+            "label": "シャム10サタン白銅貨",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/1772c19c8669df60ea928157d1073dd3_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/b4ee07ccfaa45215d1e0b1606abb0904.json",
+            "@type": "sc:Manifest",
+            "label": "2文銅貨",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/b4ee07ccfaa45215d1e0b1606abb0904_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/5f0272c66001a51cf42d944a729fac76.json",
+            "@type": "sc:Manifest",
+            "label": "シャム陶銭",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/5f0272c66001a51cf42d944a729fac76_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/e03c628853d35076a71263ba4e9d4144.json",
+            "@type": "sc:Manifest",
+            "label": "シャム陶銭",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/e03c628853d35076a71263ba4e9d4144_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/d4666d5f377130e1918df3a5c1ccb67b.json",
+            "@type": "sc:Manifest",
+            "label": "シャム陶銭",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/d4666d5f377130e1918df3a5c1ccb67b_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/5e78dcb47236add2f8bdc7f940b49d83.json",
+            "@type": "sc:Manifest",
+            "label": "シャム陶銭",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/5e78dcb47236add2f8bdc7f940b49d83_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/94cf01373b67a664c47fd44e56d8a857.json",
+            "@type": "sc:Manifest",
+            "label": "シャム陶銭",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/94cf01373b67a664c47fd44e56d8a857_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/b756d8f67bf0502be72211dd23249f85.json",
+            "@type": "sc:Manifest",
+            "label": "〓切銀",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/b756d8f67bf0502be72211dd23249f85_1.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/2f86827edd2533cecee60b8f5aaffa58.json",
+            "@type": "sc:Manifest",
+            "label": "1センタボ青銅貨",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/2f86827edd2533cecee60b8f5aaffa58_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/11c60d13a6ed2246c1cdcdf9d769f128.json",
+            "@type": "sc:Manifest",
+            "label": "シャム1サタン銅貨",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/11c60d13a6ed2246c1cdcdf9d769f128_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/9f294aca70d4405b056a4c1e8138dfd2.json",
+            "@type": "sc:Manifest",
+            "label": "シャム陶銭",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/9f294aca70d4405b056a4c1e8138dfd2_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/4b1aff7ed47e91d65188e286adca8ac8.json",
+            "@type": "sc:Manifest",
+            "label": "?刀五百（下部脱落）",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/4b1aff7ed47e91d65188e286adca8ac8_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/d9765119ecaed2a7568be76e6473c9b7.json",
+            "@type": "sc:Manifest",
+            "label": "50サンチームアルミニウム青銅貨",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/d9765119ecaed2a7568be76e6473c9b7_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/e15dad29bf0bc3142ddecd8a0bd7adc9.json",
+            "@type": "sc:Manifest",
+            "label": "からかさ札",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/e15dad29bf0bc3142ddecd8a0bd7adc9_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/ad195ed68b2b7f67a6965b90d9e8c883.json",
+            "@type": "sc:Manifest",
+            "label": "?刀五百",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/ad195ed68b2b7f67a6965b90d9e8c883_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/403a51960e13257ef89c53669763a58d.json",
+            "@type": "sc:Manifest",
+            "label": "5カペエク黄銅貨",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/403a51960e13257ef89c53669763a58d_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/d2f4fa346636522e0aaba3f439e36a10.json",
+            "@type": "sc:Manifest",
+            "label": "シャム陶銭",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/d2f4fa346636522e0aaba3f439e36a10_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/a2b330edb519580fd11e8db74894e0ee.json",
+            "@type": "sc:Manifest",
+            "label": "1センタボ青銅貨",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/a2b330edb519580fd11e8db74894e0ee_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/a4bd4eaabd2ad26a5dd21159c3eb6667.json",
+            "@type": "sc:Manifest",
+            "label": "シャム陶銭",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/a4bd4eaabd2ad26a5dd21159c3eb6667_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/cf37c287d1dbae5033bd596da0eb5cb6.json",
+            "@type": "sc:Manifest",
+            "label": "シャム陶銭",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/cf37c287d1dbae5033bd596da0eb5cb6_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/2ef732d3e320402e234e83914ea07523.json",
+            "@type": "sc:Manifest",
+            "label": "かせ糸代切手",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/2ef732d3e320402e234e83914ea07523_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/620fc51fefcd575bc82b82451c53f39d.json",
+            "@type": "sc:Manifest",
+            "label": "シャム陶銭",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/620fc51fefcd575bc82b82451c53f39d_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/02ccf47e02a4370df9eea1d048a5f5ce.json",
+            "@type": "sc:Manifest",
+            "label": "50サンチームアルミニウム青銅貨",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/02ccf47e02a4370df9eea1d048a5f5ce_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/34100544adc957649499155955137e4b.json",
+            "@type": "sc:Manifest",
+            "label": "シャム陶銭",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/34100544adc957649499155955137e4b_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/c7fb0b83d11b5c47107586e891755452.json",
+            "@type": "sc:Manifest",
+            "label": "シャム1／2チカル銀貨",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/c7fb0b83d11b5c47107586e891755452_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/bd9b66aab7526d9a2bb03b4a372f909e.json",
+            "@type": "sc:Manifest",
+            "label": "シャム陶銭",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/bd9b66aab7526d9a2bb03b4a372f909e_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/f59c5514844befdd21a33a9c99fef097.json",
+            "@type": "sc:Manifest",
+            "label": "シャム陶銭",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/f59c5514844befdd21a33a9c99fef097_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/06c94b944fd517d35495bc951e9a34d6.json",
+            "@type": "sc:Manifest",
+            "label": "1センタボ青銅貨",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/06c94b944fd517d35495bc951e9a34d6_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/5b58dbee93c7dbf77663ea30e69a6c89.json",
+            "@type": "sc:Manifest",
+            "label": "シャム陶銭",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/5b58dbee93c7dbf77663ea30e69a6c89_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/94ec6f55b46329f31a25cbbf2fbd69d4.json",
+            "@type": "sc:Manifest",
+            "label": "かせ糸代切手",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/94ec6f55b46329f31a25cbbf2fbd69d4_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/bbdec4b9ba67b32df2bb08076e293a20.json",
+            "@type": "sc:Manifest",
+            "label": "シャム1／4チカル銀貨",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/bbdec4b9ba67b32df2bb08076e293a20_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/ee2a16e480937de389b071de78ef5a4e.json",
+            "@type": "sc:Manifest",
+            "label": "かせ糸代切手",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/ee2a16e480937de389b071de78ef5a4e_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/b51c18bda18b80c3051aa07c1c2c8404.json",
+            "@type": "sc:Manifest",
+            "label": "シャム1／2チャット銅貨",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/b51c18bda18b80c3051aa07c1c2c8404_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/4d10333b3c569f56ee3c7f5eb28efe24.json",
+            "@type": "sc:Manifest",
+            "label": "シャム陶銭",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/4d10333b3c569f56ee3c7f5eb28efe24_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/f1dfeea295e3483a349b783efb333f83.json",
+            "@type": "sc:Manifest",
+            "label": "5セント銀貨",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/f1dfeea295e3483a349b783efb333f83_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/50a8876a3f497805e7fef65a9ca1d251.json",
+            "@type": "sc:Manifest",
+            "label": "シャム陶銭",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/50a8876a3f497805e7fef65a9ca1d251_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/fa3268352de8d86fe81d1e169ccdbdea.json",
+            "@type": "sc:Manifest",
+            "label": "2文銅貨",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/fa3268352de8d86fe81d1e169ccdbdea_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/1ea00044ce22e3c5ab2afba137f0b0a6.json",
+            "@type": "sc:Manifest",
+            "label": "2文銅貨",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/1ea00044ce22e3c5ab2afba137f0b0a6_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/668741a766935020c99c5322374ef979.json",
+            "@type": "sc:Manifest",
+            "label": "1センタボ青銅貨",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/668741a766935020c99c5322374ef979_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/d5e267883978f59b4ef66229cd980f59.json",
+            "@type": "sc:Manifest",
+            "label": "1サンチーム銅貨",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/d5e267883978f59b4ef66229cd980f59_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/ce67f84f6f16b563b7317d5289cf13bf.json",
+            "@type": "sc:Manifest",
+            "label": "シャム1／4チカル銀貨",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/ce67f84f6f16b563b7317d5289cf13bf_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/6a69840e38b2729f56c20a38e40de854.json",
+            "@type": "sc:Manifest",
+            "label": "シャム陶銭",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/6a69840e38b2729f56c20a38e40de854_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/c6a05218693f0f84b7a79ad0d6ac123a.json",
+            "@type": "sc:Manifest",
+            "label": "10サンチーム青銅貨",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/c6a05218693f0f84b7a79ad0d6ac123a_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/b63297e7816390f7c1255da61e963748.json",
+            "@type": "sc:Manifest",
+            "label": "2文銅貨",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/b63297e7816390f7c1255da61e963748_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/3f863d0a53af759c0fbf7029412bb742.json",
+            "@type": "sc:Manifest",
+            "label": "シャム陶銭",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/3f863d0a53af759c0fbf7029412bb742_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/709c4dd849571b4719f0950e3bb96bf5.json",
+            "@type": "sc:Manifest",
+            "label": "シャム陶銭",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/709c4dd849571b4719f0950e3bb96bf5_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/fad3ac9b74989de54438001cd5ac7f11.json",
+            "@type": "sc:Manifest",
+            "label": "?刀五百",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/fad3ac9b74989de54438001cd5ac7f11_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/8f05544d6964fdc6960622f8c97d0046.json",
+            "@type": "sc:Manifest",
+            "label": "2文銅貨",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/8f05544d6964fdc6960622f8c97d0046_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/fae23a86674a97a2d0a69089b08cd7a4.json",
+            "@type": "sc:Manifest",
+            "label": "1サンチーム銅貨",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/fae23a86674a97a2d0a69089b08cd7a4_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/043eb01053179d9955060678b0ec2023.json",
+            "@type": "sc:Manifest",
+            "label": "シャム陶銭",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/043eb01053179d9955060678b0ec2023_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/ab852afbb14f34c964f65b1b656facd3.json",
+            "@type": "sc:Manifest",
+            "label": "1センタボ青銅貨",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/ab852afbb14f34c964f65b1b656facd3_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/55f5bb4f4b04a4d068b06a93d1624173.json",
+            "@type": "sc:Manifest",
+            "label": "10カペエクニッケル黄銅貨",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/55f5bb4f4b04a4d068b06a93d1624173_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/6d48b627622947771c27905ab9f7fc21.json",
+            "@type": "sc:Manifest",
+            "label": "シャム陶銭",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/6d48b627622947771c27905ab9f7fc21_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/7668413b28d9bcb8958f51fb68b10b5f.json",
+            "@type": "sc:Manifest",
+            "label": "1センタボ青銅貨",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/7668413b28d9bcb8958f51fb68b10b5f_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/1b52ec39e7673eacb6c83de4e3293dc8.json",
+            "@type": "sc:Manifest",
+            "label": "1センタボ青銅貨",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/1b52ec39e7673eacb6c83de4e3293dc8_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/ed641aa4f7bc117b4ab89798ce7847a9.json",
+            "@type": "sc:Manifest",
+            "label": "シャム陶銭",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/ed641aa4f7bc117b4ab89798ce7847a9_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/66b85e65dd2004af96eb0b224d63d4f2.json",
+            "@type": "sc:Manifest",
+            "label": "シャム10サタン白銅貨",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/66b85e65dd2004af96eb0b224d63d4f2_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/86206d80c623123b607bf3ae96bb0e4d.json",
+            "@type": "sc:Manifest",
+            "label": "シャム陶銭",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/86206d80c623123b607bf3ae96bb0e4d_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/480603f55a154cb7686cb79a30c99b16.json",
+            "@type": "sc:Manifest",
+            "label": "1サンチーム銅貨",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/480603f55a154cb7686cb79a30c99b16_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/a6e3e976bfeb632b7dde4b46f9defe8f.json",
+            "@type": "sc:Manifest",
+            "label": "シャム陶銭",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/a6e3e976bfeb632b7dde4b46f9defe8f_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/0d044e18d0fd7f11254ce11558106d21.json",
+            "@type": "sc:Manifest",
+            "label": "シャム陶銭",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/0d044e18d0fd7f11254ce11558106d21_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/0d536cb4b906cba128a620970dcba11f.json",
+            "@type": "sc:Manifest",
+            "label": "シャム陶銭",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/0d536cb4b906cba128a620970dcba11f_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/2679b2eb7ac9033e60c5927990e7164a.json",
+            "@type": "sc:Manifest",
+            "label": "1サンチーム銅貨",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/2679b2eb7ac9033e60c5927990e7164a_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/9c0583dbaf31892fcff3537868c5965d.json",
+            "@type": "sc:Manifest",
+            "label": "1センタボ青銅貨",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/9c0583dbaf31892fcff3537868c5965d_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/44bf558df7d45f29ee65fb66001836fd.json",
+            "@type": "sc:Manifest",
+            "label": "1センタボ青銅貨",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/44bf558df7d45f29ee65fb66001836fd_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/e0dc07013a00bacc13ec8e4a05fad329.json",
+            "@type": "sc:Manifest",
+            "label": "1セント銅貨",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/e0dc07013a00bacc13ec8e4a05fad329_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/5a84e9bb85cbbed8c180a675b2092794.json",
+            "@type": "sc:Manifest",
+            "label": "1センタボ青銅貨",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/5a84e9bb85cbbed8c180a675b2092794_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/58c58a732ac6292c25f01b4431f79296.json",
+            "@type": "sc:Manifest",
+            "label": "5セント白銅貨",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/58c58a732ac6292c25f01b4431f79296_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/e681c1c64b216b52467f4cdec4f6f5b2.json",
+            "@type": "sc:Manifest",
+            "label": "シャム陶銭",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/e681c1c64b216b52467f4cdec4f6f5b2_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/9ae168e169ea20ccd01c1246cad2a8e2.json",
+            "@type": "sc:Manifest",
+            "label": "1セント銅貨",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/9ae168e169ea20ccd01c1246cad2a8e2_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/1f3c07ecd07c40effd7ba4e102de5e6d.json",
+            "@type": "sc:Manifest",
+            "label": "1セント銅貨",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/1f3c07ecd07c40effd7ba4e102de5e6d_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/ba93e87e84d6eff94008b2d342bae375.json",
+            "@type": "sc:Manifest",
+            "label": "シャム陶銭",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/ba93e87e84d6eff94008b2d342bae375_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/ce95326d31444267af1a564c9e53aac2.json",
+            "@type": "sc:Manifest",
+            "label": "シャム5サタン白銅貨",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/ce95326d31444267af1a564c9e53aac2_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/bc3110a3f6f166f6af00a7aa4cd39e08.json",
+            "@type": "sc:Manifest",
+            "label": "5サンチーム白銅貨",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/bc3110a3f6f166f6af00a7aa4cd39e08_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/802ea808bf1883c43d73b7dfb8345398.json",
+            "@type": "sc:Manifest",
+            "label": "?刀五百（下部脱落）",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/802ea808bf1883c43d73b7dfb8345398_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/c054f5e389faa5b76156a5b8a47e3d86.json",
+            "@type": "sc:Manifest",
+            "label": "シャム2チャット銅貨",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/c054f5e389faa5b76156a5b8a47e3d86_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/00e2b8fc61488cddb262fb285d495509.json",
+            "@type": "sc:Manifest",
+            "label": "シャム陶銭",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/00e2b8fc61488cddb262fb285d495509_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/8d2e4b1c6011a54061e5ae0a5b234e9c.json",
+            "@type": "sc:Manifest",
+            "label": "シャム陶銭",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/8d2e4b1c6011a54061e5ae0a5b234e9c_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/53e186596b0844ef77937f00cfa5c27d.json",
+            "@type": "sc:Manifest",
+            "label": "シャム陶銭",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/53e186596b0844ef77937f00cfa5c27d_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/aa086a68937ca696a2f86c6a5684f165.json",
+            "@type": "sc:Manifest",
+            "label": "シャム陶銭",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/aa086a68937ca696a2f86c6a5684f165_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/16226819cbafcbdc3a04a91208024be9.json",
+            "@type": "sc:Manifest",
+            "label": "5サンチーム白銅貨",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/16226819cbafcbdc3a04a91208024be9_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/9a2a61ac76a877bde720df05b6d898a7.json",
+            "@type": "sc:Manifest",
+            "label": "1サンチーム銅貨",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/9a2a61ac76a877bde720df05b6d898a7_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/901b02ff39dbdace1dc73e0e6155742b.json",
+            "@type": "sc:Manifest",
+            "label": "シャム陶銭",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/901b02ff39dbdace1dc73e0e6155742b_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/537166f6b46a401fd8507f667518fa07.json",
+            "@type": "sc:Manifest",
+            "label": "5分アルミニウム貨",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/537166f6b46a401fd8507f667518fa07_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/e0047250aae8981e3f2a8dd4a6baccb2.json",
+            "@type": "sc:Manifest",
+            "label": "5サンチーム白銅貨",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/e0047250aae8981e3f2a8dd4a6baccb2_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/4117408a7286e2ab3ed49df428707139.json",
+            "@type": "sc:Manifest",
+            "label": "シャム陶銭",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/4117408a7286e2ab3ed49df428707139_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/c0acdb45b1c0302ac48a805eaad8b304.json",
+            "@type": "sc:Manifest",
+            "label": "20カペエクニッケル黄銅貨",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/c0acdb45b1c0302ac48a805eaad8b304_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/49d9ad3cf94794164551696df28a2c84.json",
+            "@type": "sc:Manifest",
+            "label": "1センタボ青銅貨",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/49d9ad3cf94794164551696df28a2c84_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/5b6f54bb3b2ebda05577952c070021a6.json",
+            "@type": "sc:Manifest",
+            "label": "シャム陶銭",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/5b6f54bb3b2ebda05577952c070021a6_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/e30f6b07324e6c82157650f9b1929648.json",
+            "@type": "sc:Manifest",
+            "label": "シャム陶銭",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/e30f6b07324e6c82157650f9b1929648_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/427a793127a17513b71e84d893fbf350.json",
+            "@type": "sc:Manifest",
+            "label": "1サンチーム銅貨",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/427a793127a17513b71e84d893fbf350_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/6364417c789b3e069b10d0c9b9b7d198.json",
+            "@type": "sc:Manifest",
+            "label": "シャム陶銭",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/6364417c789b3e069b10d0c9b9b7d198_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/7b2c6db4fc7cadf58ea97f52fa563ec2.json",
+            "@type": "sc:Manifest",
+            "label": "50サンチームアルミニウム青銅貨",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/7b2c6db4fc7cadf58ea97f52fa563ec2_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/2aba6616f9c4de85321db78debf4b878.json",
+            "@type": "sc:Manifest",
+            "label": "シャム10サタン白銅貨",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/2aba6616f9c4de85321db78debf4b878_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/b544238f102c1fcc91ecbdc925461ef7.json",
+            "@type": "sc:Manifest",
+            "label": "シャム1チャット銅貨",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/b544238f102c1fcc91ecbdc925461ef7_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/e56bd2cd91e1bf9f1a52feef8e570106.json",
+            "@type": "sc:Manifest",
+            "label": "1サンチーム銅貨",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/e56bd2cd91e1bf9f1a52feef8e570106_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/9ce922c6b24b767fb5e3a2fb6bd3d47a.json",
+            "@type": "sc:Manifest",
+            "label": "1センタボ青銅貨",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/9ce922c6b24b767fb5e3a2fb6bd3d47a_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/905578ef3c5bba3b5ca9baf0aa4f1b4a.json",
+            "@type": "sc:Manifest",
+            "label": "シャム陶銭",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/905578ef3c5bba3b5ca9baf0aa4f1b4a_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/5cefc9e8419755a2c2c8d87c2dc4e528.json",
+            "@type": "sc:Manifest",
+            "label": "1センタボ青銅貨",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/5cefc9e8419755a2c2c8d87c2dc4e528_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/51271fc7b1d74c2a262b78994a96b2ef.json",
+            "@type": "sc:Manifest",
+            "label": "シャム陶銭",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/51271fc7b1d74c2a262b78994a96b2ef_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/28c99c4e508122e26ad402c390f94b9f.json",
+            "@type": "sc:Manifest",
+            "label": "1センタボ青銅貨",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/28c99c4e508122e26ad402c390f94b9f_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/7d3c375c88c14595b3f74a46474db4fe.json",
+            "@type": "sc:Manifest",
+            "label": "1セントトークン",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/7d3c375c88c14595b3f74a46474db4fe_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/3c6477691605115bc8d0e6d056b5c60c.json",
+            "@type": "sc:Manifest",
+            "label": "1センタボ青銅貨",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/3c6477691605115bc8d0e6d056b5c60c_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/007f346d50d7b7c4cdedb3bcfefe8b81.json",
+            "@type": "sc:Manifest",
+            "label": "シャム陶銭",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/007f346d50d7b7c4cdedb3bcfefe8b81_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/dbd9f484771b3535a6da85ed8312b05e.json",
+            "@type": "sc:Manifest",
+            "label": "1センタボ青銅貨",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/dbd9f484771b3535a6da85ed8312b05e_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/dd9ed9c0171c579f1b2934d437f90103.json",
+            "@type": "sc:Manifest",
+            "label": "1ドル白銅貨",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/dd9ed9c0171c579f1b2934d437f90103_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/5b7a0ffc2d88383c2c35996ad6190910.json",
+            "@type": "sc:Manifest",
+            "label": "シャム陶銭",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/5b7a0ffc2d88383c2c35996ad6190910_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/fe757a3101ca44bfc44457c98d638f07.json",
+            "@type": "sc:Manifest",
+            "label": "かせ糸代切手",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/fe757a3101ca44bfc44457c98d638f07_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/6d65b680b0acc33f354b7101b1cdc72b.json",
+            "@type": "sc:Manifest",
+            "label": "1カペエク黄銅貨",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/6d65b680b0acc33f354b7101b1cdc72b_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/b371e221b33f5ab83536abf61df47551.json",
+            "@type": "sc:Manifest",
+            "label": "シャム陶銭",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/b371e221b33f5ab83536abf61df47551_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/a3e4a569887b5b41dc7511d5a1f8d8e1.json",
+            "@type": "sc:Manifest",
+            "label": "シャム陶銭",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/a3e4a569887b5b41dc7511d5a1f8d8e1_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/29f57f186fdbbea95ab6f21070ce4d5c.json",
+            "@type": "sc:Manifest",
+            "label": "シャム陶銭",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/29f57f186fdbbea95ab6f21070ce4d5c_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/581fbfde3fae6518883744ed7bf136cc.json",
+            "@type": "sc:Manifest",
+            "label": "シャム陶銭",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/581fbfde3fae6518883744ed7bf136cc_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/79b23a27cc4fb1fa95ef81215bb3017d.json",
+            "@type": "sc:Manifest",
+            "label": "1センタボ青銅貨",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/79b23a27cc4fb1fa95ef81215bb3017d_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/3f01d39652f59de63d3133370fd8b71e.json",
+            "@type": "sc:Manifest",
+            "label": "[タイトルなし]",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/3f01d39652f59de63d3133370fd8b71e_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/38bc876dd098775187f3391b08f2ffc2.json",
+            "@type": "sc:Manifest",
+            "label": "?刀五百",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/38bc876dd098775187f3391b08f2ffc2_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/29295c3c5beac890f384104389896aee.json",
+            "@type": "sc:Manifest",
+            "label": "5センタボ白銅貨",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/29295c3c5beac890f384104389896aee_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/c46581f132045674b156d4b30f375a3a.json",
+            "@type": "sc:Manifest",
+            "label": "シャム陶銭",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/c46581f132045674b156d4b30f375a3a_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/85f7b299bb2522b245b7cc0da05f8a2b.json",
+            "@type": "sc:Manifest",
+            "label": "1センタボ青銅貨",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/85f7b299bb2522b245b7cc0da05f8a2b_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/7c730907a67782880610c95e1290484d.json",
+            "@type": "sc:Manifest",
+            "label": "シャム陶銭",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/7c730907a67782880610c95e1290484d_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/aa6ee7eb4c16f2dc9f01c1263e281e3c.json",
+            "@type": "sc:Manifest",
+            "label": "シャム陶銭",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/aa6ee7eb4c16f2dc9f01c1263e281e3c_0.jpg"
+        }
+    ]
+}

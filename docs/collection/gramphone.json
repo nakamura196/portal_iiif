@@ -1,0 +1,589 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://nakamura196.github.io/portal_iiif/collection/gramphone.json",
+    "@type": "sc:Collection",
+    "label": "東京大学総合研究博物館所蔵蓄音機コレクション",
+    "manifests": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/gramphone/80eff2a4aeaa8586cfe70bc64fe9c080.json",
+            "@type": "sc:Manifest",
+            "label": "ヴィヴァ・トーナル・グラフォノーラ451型 [10698] Viva-tonal Grafonola Model 451 [10698]",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/gramphone/80eff2a4aeaa8586cfe70bc64fe9c080.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/gramphone/30b87a82fcc1a062226300112d30f7cd.json",
+            "@type": "sc:Manifest",
+            "label": "アンベローラ 30 Amberola 30",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/gramphone/30b87a82fcc1a062226300112d30f7cd.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/gramphone/15f61d61adcf42e5868dbaadc9e44f81.json",
+            "@type": "sc:Manifest",
+            "label": "ウルトーナ17型 [139289] Ultona Model No. 17 [139289]",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/gramphone/15f61d61adcf42e5868dbaadc9e44f81.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/gramphone/99515049fe2273a01348e1be1e98781f.json",
+            "@type": "sc:Manifest",
+            "label": "100型 Model No. 100",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/gramphone/99515049fe2273a01348e1be1e98781f.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/gramphone/af0c18d9031d58d42d8514f4ee041f18.json",
+            "@type": "sc:Manifest",
+            "label": "ジェムB型 [207975] Gem Model B [207975]",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/gramphone/af0c18d9031d58d42d8514f4ee041f18.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/gramphone/42f279546387a1cb743ec9b10617ca06.json",
+            "@type": "sc:Manifest",
+            "label": "ヴィヴァ・トーナル・フォノグラフ800型 Viva-Tonal Phonograph Model No. 800",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/gramphone/42f279546387a1cb743ec9b10617ca06.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/gramphone/e3e6359b123a4f684e752607b50dd1fc.json",
+            "@type": "sc:Manifest",
+            "label": "ポリー・ポータブル Polly Portable",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/gramphone/e3e6359b123a4f684e752607b50dd1fc.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/gramphone/673ed742dfd807ab704d0ab4020d6754.json",
+            "@type": "sc:Manifest",
+            "label": "R型 [805] R [805]",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/gramphone/673ed742dfd807ab704d0ab4020d6754.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/gramphone/54a47f110e8ac5804efd96df79bca0e1.json",
+            "@type": "sc:Manifest",
+            "label": "H.M.V. モナークV型 H.M.V. Monarch Type V",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/gramphone/54a47f110e8ac5804efd96df79bca0e1.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/gramphone/2ba3bd67f2ac009579e0866009cf8f71.json",
+            "@type": "sc:Manifest",
+            "label": "モナーク・ジュニアE型 [48018] Monarch Junior Type E [48018]",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/gramphone/2ba3bd67f2ac009579e0866009cf8f71.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/gramphone/927308890343932f2fde1fba8ef632f4.json",
+            "@type": "sc:Manifest",
+            "label": "ディスク・グラフォフォンAH型（セカンド・スタイル） Disc Graphophone Model AH (Second Style)",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/gramphone/927308890343932f2fde1fba8ef632f4.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/gramphone/55ddfe35269f6e6b9a51f77450051b33.json",
+            "@type": "sc:Manifest",
+            "label": "H.M.V. デラックス101型 H.M.V. Deluxe Model 101",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/gramphone/55ddfe35269f6e6b9a51f77450051b33.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/gramphone/20d5ef88dde07e85576dbd2a1c2f0298.json",
+            "@type": "sc:Manifest",
+            "label": "タイプSMコンサート・モデルA「オペラ」[4281] Type SM Concert Model A  \"Opera\" [4281]",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/gramphone/20d5ef88dde07e85576dbd2a1c2f0298.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/gramphone/05d02045b4171d0b85129ff32eebdadb.json",
+            "@type": "sc:Manifest",
+            "label": "ニッポノフォン・ユーフォン Uphone",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/gramphone/05d02045b4171d0b85129ff32eebdadb.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/gramphone/87fc008042419d58094d1f6105e11c69.json",
+            "@type": "sc:Manifest",
+            "label": "31型「ウェストミンスター」 [101287] Style 31 \"Westminster\" [101287]",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/gramphone/87fc008042419d58094d1f6105e11c69.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/gramphone/ffca33945a4b30919c0fbc4914543566.json",
+            "@type": "sc:Manifest",
+            "label": "スタンダード300型　[2750] Standard No. 300　[2750]",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/gramphone/ffca33945a4b30919c0fbc4914543566.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/gramphone/44da56ac1e347b1e6ab222d173a3a03c.json",
+            "@type": "sc:Manifest",
+            "label": "モデル・コンサート [C3107] Model Concert [C3107]",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/gramphone/44da56ac1e347b1e6ab222d173a3a03c.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/gramphone/382b59394ef9e74b7e9d6c9749f9931e.json",
+            "@type": "sc:Manifest",
+            "label": "オルトフォニック・ヴィクトローラVE 10-50X型 [7142] Orthophonic Victrola VE 10-50X [7142]",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/gramphone/382b59394ef9e74b7e9d6c9749f9931e.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/gramphone/f32caf9969b95cab735745d1016694ad.json",
+            "@type": "sc:Manifest",
+            "label": "グラモフォン・アンド・タイプライター・トレードマーク・モデル Gramophone & Typewriter Trademark Model",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/gramphone/f32caf9969b95cab735745d1016694ad.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/gramphone/4aeaf3c3ad338006525b1865583f1223.json",
+            "@type": "sc:Manifest",
+            "label": "ヴィヴァ・トーナル・グラフォノーラ450型 [2526] Viva-tonal Grafonola Model 450 [2526]",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/gramphone/4aeaf3c3ad338006525b1865583f1223.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/gramphone/7f0bea451d6f9ad9045cf198a83ea316.json",
+            "@type": "sc:Manifest",
+            "label": "H.M.V. ルミエール460卓上型 H.M.V. Lumiere Table Model 460",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/gramphone/7f0bea451d6f9ad9045cf198a83ea316.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/gramphone/e8ff29cbe13fd65c26f2a677388c75df.json",
+            "@type": "sc:Manifest",
+            "label": "宮内庁御買上品 Model bought by the Imperial Agency",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/gramphone/e8ff29cbe13fd65c26f2a677388c75df.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/gramphone/79472227d57828822b303e0a0843d140.json",
+            "@type": "sc:Manifest",
+            "label": "ジェム・タイプI [26548] Gem Type I [26548]",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/gramphone/79472227d57828822b303e0a0843d140.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/gramphone/12db1a1f17abec5a76d1caae95968e44.json",
+            "@type": "sc:Manifest",
+            "label": "E.M.G. マークIX型（トラベリング・ホーン） E.M.G. Mark IX Travelling Horn",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/gramphone/12db1a1f17abec5a76d1caae95968e44.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/gramphone/062fe55d5d19dea5067c6b4d7fccfb32.json",
+            "@type": "sc:Manifest",
+            "label": "オルトフォニック・ヴィクトローラ8-30型 [CREDENZA E1694] Orthophonic Victrola 8-30 [CREDENZA E1694]",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/gramphone/062fe55d5d19dea5067c6b4d7fccfb32.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/gramphone/8214367eda2f05f28d1024c7c7b64d0e.json",
+            "@type": "sc:Manifest",
+            "label": "ピーター・パン Peter Pan",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/gramphone/8214367eda2f05f28d1024c7c7b64d0e.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/gramphone/70dc6ab8edc4a56f16ebe5852aa54af1.json",
+            "@type": "sc:Manifest",
+            "label": "I C型 [22714C] I Type C [22714C]",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/gramphone/70dc6ab8edc4a56f16ebe5852aa54af1.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/gramphone/3acd50ddb2b39cb78b014f1e48e7f72f.json",
+            "@type": "sc:Manifest",
+            "label": "ビクトローラVV8-30のレプリカ Replica of the Victrola VV8-30",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/gramphone/3acd50ddb2b39cb78b014f1e48e7f72f.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/gramphone/81f65b0a17ba43a6065f8c29782a655f.json",
+            "@type": "sc:Manifest",
+            "label": "V（A型）[54224] V (Type A) [54224]",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/gramphone/81f65b0a17ba43a6065f8c29782a655f.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/gramphone/1de833e7ddf33091734d4eb5ed54c67c.json",
+            "@type": "sc:Manifest",
+            "label": "モナーク・ジュニアE型  [23893] Monarch Junior Type E [23893]",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/gramphone/1de833e7ddf33091734d4eb5ed54c67c.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/gramphone/c3fd2153fe4f8f8ef8af0a077396332a.json",
+            "@type": "sc:Manifest",
+            "label": "H.M.V. 157型（床式）[6541] H.M.V. Model 157 (Floor Type) [6541]",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/gramphone/c3fd2153fe4f8f8ef8af0a077396332a.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/gramphone/386c5079c73857bd9ecfc2244d61d810.json",
+            "@type": "sc:Manifest",
+            "label": "ヴィヴァ・トーナル・グラフォノーラ460型 Viva-tonal Grafonola Model 460",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/gramphone/386c5079c73857bd9ecfc2244d61d810.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/gramphone/1bbf0a367042ef22f63d782692005f9f.json",
+            "@type": "sc:Manifest",
+            "label": "モナーク・ジュニア Monarch Senior",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/gramphone/1bbf0a367042ef22f63d782692005f9f.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/gramphone/c5639ab4bd6e33ebdfa8a4a4327c4de2.json",
+            "@type": "sc:Manifest",
+            "label": "ホームE型 [402886] Home Model E [402886]",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/gramphone/c5639ab4bd6e33ebdfa8a4a4327c4de2.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/gramphone/cf053ee1756c255b7c7a3a1337c85944.json",
+            "@type": "sc:Manifest",
+            "label": "コロンビア・メード・グランド・ビジー・ビー Columbia-Made Grand Busy Bee",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/gramphone/cf053ee1756c255b7c7a3a1337c85944.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/gramphone/df32896e38b019a25e8f60e164ff4330.json",
+            "@type": "sc:Manifest",
+            "label": "オルガノーラ [AA18954] Organola [AA18954]",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/gramphone/df32896e38b019a25e8f60e164ff4330.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/gramphone/bf470b4bc678c5e2d824dfeb5fd7c667.json",
+            "@type": "sc:Manifest",
+            "label": "クラウン・グラフォフォンBQ型 Graphophone Crown Type BQ",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/gramphone/bf470b4bc678c5e2d824dfeb5fd7c667.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/gramphone/d658551c0689c1d5d3427a93dda83091.json",
+            "@type": "sc:Manifest",
+            "label": "H.M.V. 32型 H.M.V. Model 32",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/gramphone/d658551c0689c1d5d3427a93dda83091.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/gramphone/fa2adebd5da1507164c7f147913aea99.json",
+            "@type": "sc:Manifest",
+            "label": "オルトフォニック・ヴィクトローラVV 8-12型 [6504] Orthophonic Victrola VV 8-12 [6504]",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/gramphone/fa2adebd5da1507164c7f147913aea99.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/gramphone/074767fc86a81c5db4dc17b1b1fc2bbf.json",
+            "@type": "sc:Manifest",
+            "label": "ポータブルVV J-25型 [24429] Portable Model VV J-25 [24429]",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/gramphone/074767fc86a81c5db4dc17b1b1fc2bbf.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/gramphone/e667a83936f12ce8f9a6dc2bdb4db48c.json",
+            "@type": "sc:Manifest",
+            "label": "ヴィヴァ・トーナル・グラフォノーラ310型 [1633] Viva-tonal Grafonola Model 310 [1633]",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/gramphone/e667a83936f12ce8f9a6dc2bdb4db48c.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/gramphone/0151b33339ae39c69d90835ca83eba49.json",
+            "@type": "sc:Manifest",
+            "label": "O E型 [20313E] O Type E [20313E]",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/gramphone/0151b33339ae39c69d90835ca83eba49.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/gramphone/6b33f615e7bdefdc7a7abcfc1eab85cc.json",
+            "@type": "sc:Manifest",
+            "label": "コロンビア・メード・スタンダードA型 Columbia-Made Standard Model A",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/gramphone/6b33f615e7bdefdc7a7abcfc1eab85cc.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/gramphone/f4e7d8d235748ba213af0ac70c9bfc1f.json",
+            "@type": "sc:Manifest",
+            "label": "グラモフォン・アンド・タイプライター・モナーク Gramophone & Typewriter Monarch",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/gramphone/f4e7d8d235748ba213af0ac70c9bfc1f.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/gramphone/667993cf1a4bbad9c03d6d13bd67142c.json",
+            "@type": "sc:Manifest",
+            "label": "6型「アン女王」 [30067] Style 6 \"Queen Anne\" [30067]",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/gramphone/667993cf1a4bbad9c03d6d13bd67142c.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/gramphone/e4cde21fe48da1f95cd782953ea1dca5.json",
+            "@type": "sc:Manifest",
+            "label": "E.M.G. マークIX型 E.M.G. Mark IX",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/gramphone/e4cde21fe48da1f95cd782953ea1dca5.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/gramphone/da23bbb108aab44cc178c22c600db0fb.json",
+            "@type": "sc:Manifest",
+            "label": "オフィシャル・ラボラトリー・モデルC-19「チッペンデール」［型番SM97091］ Official Laboratory Model C-19 Chippendale [SM97091]",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/gramphone/da23bbb108aab44cc178c22c600db0fb.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/gramphone/1860edfdd8c14a51392a214a547670c7.json",
+            "@type": "sc:Manifest",
+            "label": "グラフォノーラD-2型 Grafonola Type D-2",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/gramphone/1860edfdd8c14a51392a214a547670c7.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/gramphone/5a31eda0d0487bb9abd78d96923c1921.json",
+            "@type": "sc:Manifest",
+            "label": "202型 No. 202",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/gramphone/5a31eda0d0487bb9abd78d96923c1921.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/gramphone/8f49984ba8f38509d28572e095ec6650.json",
+            "@type": "sc:Manifest",
+            "label": "ディスク・グラフォフォン「改善型チャンピオン」BN型（後年スタイル） Disc Graphophone Improved Champion Model BN (Later Style)",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/gramphone/8f49984ba8f38509d28572e095ec6650.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/gramphone/4d221750d5d2d929ef5e40e7f65ccb20.json",
+            "@type": "sc:Manifest",
+            "label": "II M型 [11909] II (Type M) [11909]",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/gramphone/4d221750d5d2d929ef5e40e7f65ccb20.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/gramphone/43ba612a703514a4ceb9467e3cb9412b.json",
+            "@type": "sc:Manifest",
+            "label": "オルトフォニック・ヴィクトローラJ1-50型 [30291] Orthophonic Victrola J1-50 [30291]",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/gramphone/43ba612a703514a4ceb9467e3cb9412b.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/gramphone/43e0cb4192262a2014c343946d2eb7a3.json",
+            "@type": "sc:Manifest",
+            "label": "ニュー・ピアレス・グラフォフォンBFT型 Graphophone New Peerless Type BFT",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/gramphone/43e0cb4192262a2014c343946d2eb7a3.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/gramphone/c110f013797bdc55eeb47e21b603740f.json",
+            "@type": "sc:Manifest",
+            "label": "エレクトローラSRE-15型 [1293] Electrola SRE-15 [1293]",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/gramphone/c110f013797bdc55eeb47e21b603740f.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/gramphone/3e2683f91309b91daa980d209d6aec0b.json",
+            "@type": "sc:Manifest",
+            "label": "グラフォフォンAJ型（セカンド・スタイル） Disc Graphophone Model AJ (Second Style)",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/gramphone/3e2683f91309b91daa980d209d6aec0b.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/gramphone/b08aa45483d768ed729c16e98f231a3d.json",
+            "@type": "sc:Manifest",
+            "label": "3スピード型 3-Speed Model",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/gramphone/b08aa45483d768ed729c16e98f231a3d.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/gramphone/900ff310be47357d28ec8229124664da.json",
+            "@type": "sc:Manifest",
+            "label": "H.M.V. モナーク・ジュニア H.M.V. Monarch Junior",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/gramphone/900ff310be47357d28ec8229124664da.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/gramphone/2776ed8d36c4bc8028af234affe15b5e.json",
+            "@type": "sc:Manifest",
+            "label": "ジュニア Junior",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/gramphone/2776ed8d36c4bc8028af234affe15b5e.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/gramphone/838527b94f35874b9f173ff431b6c16f.json",
+            "@type": "sc:Manifest",
+            "label": "オルトフォニック・ヴィクトローラ8-30型 [X 4518] Orthophonic Victrola 8-30 [X 4518]",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/gramphone/838527b94f35874b9f173ff431b6c16f.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/gramphone/460bbd8d1b2650b43e81c383e7bf8414.json",
+            "@type": "sc:Manifest",
+            "label": "ジェムD型 [319022D] Gem Model D [319022D]",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/gramphone/460bbd8d1b2650b43e81c383e7bf8414.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/gramphone/77cbf369c69fe6651f067171681cbc16.json",
+            "@type": "sc:Manifest",
+            "label": "スタンダードA型［新型ケース］ [S85131] Standard Model A (New Style Cabinet) [S85131]",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/gramphone/77cbf369c69fe6651f067171681cbc16.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/gramphone/58f5d7a9858b3fbc770cb3c095cbdf7d.json",
+            "@type": "sc:Manifest",
+            "label": "エクセルダ55型 Excelda No. 55",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/gramphone/58f5d7a9858b3fbc770cb3c095cbdf7d.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/gramphone/c5e13e3ebd0c4a4dc67b7a216841cad3.json",
+            "@type": "sc:Manifest",
+            "label": "[タイトルなし]",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/gramphone/c5e13e3ebd0c4a4dc67b7a216841cad3.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/gramphone/faa7824fcfcb01fd01c1235546652b26.json",
+            "@type": "sc:Manifest",
+            "label": "アンベローラ V [262] Amberola V [262]",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/gramphone/faa7824fcfcb01fd01c1235546652b26.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/gramphone/a60c10709a40f2cc5baea56150b81829.json",
+            "@type": "sc:Manifest",
+            "label": "ヴィクトローラVI-A C型 [647958] Victrola VI-A Type C [647958]",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/gramphone/a60c10709a40f2cc5baea56150b81829.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/gramphone/3cc97774ed79551db14a5164efbe5ff5.json",
+            "@type": "sc:Manifest",
+            "label": "H.M.V. インターミディエイト・モナーク2型 H.M.V. Intermediate Monarch Model 2",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/gramphone/3cc97774ed79551db14a5164efbe5ff5.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/gramphone/751045aa4971ac9605c1af1a7ddde10e.json",
+            "@type": "sc:Manifest",
+            "label": "ヴィヴァ・トーナル・グラフォノーラ206型 Viva-tonal Grafonola No. 206",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/gramphone/751045aa4971ac9605c1af1a7ddde10e.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/gramphone/e60cced776a4379e01b80305e37a3c20.json",
+            "@type": "sc:Manifest",
+            "label": "ポケット型 Pocket",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/gramphone/e60cced776a4379e01b80305e37a3c20.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/gramphone/c5a4a4c0c5938b31811c0ef767f08fb8.json",
+            "@type": "sc:Manifest",
+            "label": "3スピード型 3-Speed Model",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/gramphone/c5a4a4c0c5938b31811c0ef767f08fb8.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/gramphone/5fdd56cf007eb87e34f8ff9633c31e20.json",
+            "@type": "sc:Manifest",
+            "label": "ヴィクトローラJ1-80型 [20722] Victrola J1-80 [20722]",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/gramphone/5fdd56cf007eb87e34f8ff9633c31e20.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/gramphone/fdb92b63b749adc6d7086b517a9c9eb3.json",
+            "@type": "sc:Manifest",
+            "label": "マクドナルド・グラフォフォンAB型 Graphophone \"MacDonald\" Type AB",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/gramphone/fdb92b63b749adc6d7086b517a9c9eb3.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/gramphone/737ff9111877e45729a1c431b80ff793.json",
+            "@type": "sc:Manifest",
+            "label": "IV（M型）[84279] IV (Type M) [84279]",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/gramphone/737ff9111877e45729a1c431b80ff793.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/gramphone/b718cfb6e06fd0ef5728a154967fbf55.json",
+            "@type": "sc:Manifest",
+            "label": "トライアンフE型 [62616] Triumph Model E [62616]",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/gramphone/b718cfb6e06fd0ef5728a154967fbf55.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/gramphone/a446a386ef1084bc81b30d9e65c4db7e.json",
+            "@type": "sc:Manifest",
+            "label": "ヴィクトローラVI-A C型 [616321] Victrola VI-A Type C [616321]",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/gramphone/a446a386ef1084bc81b30d9e65c4db7e.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/gramphone/d172af568e98dcd8802eb1ca8dbb60d5.json",
+            "@type": "sc:Manifest",
+            "label": "オルトフォニック・ヴィクトローラVV 1-90型 [5408] Orthophonic Victrola VV 1-90 [5408]",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/gramphone/d172af568e98dcd8802eb1ca8dbb60d5.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/gramphone/a771d5438b72ae46cdaac040d4ec4e4b.json",
+            "@type": "sc:Manifest",
+            "label": "VI（M型）[5315] VI (Type M) [5315]",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/gramphone/a771d5438b72ae46cdaac040d4ec4e4b.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/gramphone/b6ae6a00ecf3d842dbd813d650acc69a.json",
+            "@type": "sc:Manifest",
+            "label": "V-III （M型） [1960A] V-III (Type M) [1960A]",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/gramphone/b6ae6a00ecf3d842dbd813d650acc69a.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/gramphone/c474b5c83facafabd5b4970a06ced09f.json",
+            "@type": "sc:Manifest",
+            "label": "Z型 [31362] Z [31362]",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/gramphone/c474b5c83facafabd5b4970a06ced09f.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/gramphone/c49faae9ae5b33191deb7ac122796e40.json",
+            "@type": "sc:Manifest",
+            "label": "ニッポノーラ2型 Nipponola No. 2",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/gramphone/c49faae9ae5b33191deb7ac122796e40.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/gramphone/b790d9919872624816344a56ddfd018b.json",
+            "@type": "sc:Manifest",
+            "label": "ディスカフォン Discaphone",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/gramphone/b790d9919872624816344a56ddfd018b.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/gramphone/577916442d205e6ffe3c9156dcac0e26.json",
+            "@type": "sc:Manifest",
+            "label": "改善型トレードマーク（スタイル5）グラモフォン Improved Gramophone (Trademark Style No. 5)",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/gramphone/577916442d205e6ffe3c9156dcac0e26.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/gramphone/c96a9159afa78d05ab9e82fa26b1e089.json",
+            "@type": "sc:Manifest",
+            "label": "ディスク・グラフォフォンBJ型（インペリアル・タイプ） Disc Graphophone Imperial Type BJ",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/gramphone/c96a9159afa78d05ab9e82fa26b1e089.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/gramphone/1fc8c701f4d4e7bd3091e9df3bbcf444.json",
+            "@type": "sc:Manifest",
+            "label": "オルトフォニック・ヴィクトローラJ-1-51型 [7994] Orthophonic Victrola J-1-51 [7994]",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/gramphone/1fc8c701f4d4e7bd3091e9df3bbcf444.jpg"
+        }
+    ]
+}

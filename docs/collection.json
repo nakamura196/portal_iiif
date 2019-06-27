@@ -1,0 +1,26 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://nakamura196.github.io/portal_iiif/collection.json",
+    "@type": "sc:Collection",
+    "collections": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/collection/kahei.json",
+            "@type": "sc:Collection",
+            "label": "古貨幣・古札統合データベース"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/collection/gramphone.json",
+            "@type": "sc:Collection",
+            "label": "東京大学総合研究博物館所蔵蓄音機コレクション"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/collection/tori.json",
+            "@type": "sc:Collection",
+            "label": "東京大学演習林の鳥たち"
+        }
+    ],
+    "label": "UTokyo Academic Archives Portal Collection 2"
+}
