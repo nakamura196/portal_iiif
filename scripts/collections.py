@@ -16,7 +16,8 @@ for collection in collections:
     coll = {
         "@context": "http://iiif.io/api/presentation/2/context.json",
         "@type": "sc:Collection",
-        "manifests": []
+        "manifests": [],
+        "vhint": "use-thumb"
     }
 
     manifests = coll["manifests"]

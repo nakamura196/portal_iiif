@@ -823,5 +823,6 @@
             "label": "ノジコ",
             "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/enshurin_tori/588d769f-0255-45cc-8ca3-a59ac80f066b.jpg"
         }
-    ]
+    ],
+    "vhint": "use-thumb"
 }

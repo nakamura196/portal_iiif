@@ -34,6 +34,13 @@
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/0c16a7f35a500933b15ffa2e28e3ab4d.json",
+            "@type": "sc:Manifest",
+            "label": "バンタン銭",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/0c16a7f35a500933b15ffa2e28e3ab4d_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/ac71129a78ac4126a429703525c1fc38.json",
             "@type": "sc:Manifest",
             "label": "シャム陶銭",
@@ -83,10 +90,31 @@
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/b2c7dd635d3564acf86ef69b09498b7c.json",
+            "@type": "sc:Manifest",
+            "label": "一セント銅貨",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/b2c7dd635d3564acf86ef69b09498b7c_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/30e8821e1fee733329497831a45ffb68.json",
+            "@type": "sc:Manifest",
+            "label": "一円銀貨（明治7年式）",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/30e8821e1fee733329497831a45ffb68_1.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/05a05506a87fa3042b9093b311923c0f.json",
             "@type": "sc:Manifest",
             "label": "1センタボ青銅貨",
             "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/05a05506a87fa3042b9093b311923c0f_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/79edb512b04a3ba21c99cd11d4cde633.json",
+            "@type": "sc:Manifest",
+            "label": "シャム陶銭",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/79edb512b04a3ba21c99cd11d4cde633_0.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -118,6 +146,13 @@
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/2d38b4373084da09be9896c975f7acfc.json",
+            "@type": "sc:Manifest",
+            "label": "バンタン銭",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/2d38b4373084da09be9896c975f7acfc_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/c524f26cefc381a92da3101a133553a5.json",
             "@type": "sc:Manifest",
             "label": "シャム1／8チカル銀貨",
@@ -129,6 +164,13 @@
             "@type": "sc:Manifest",
             "label": "シャム陶銭",
             "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/551186eae653e7372865a55dbc4bd4ef_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/897ade9dab6cff8c741af0d29c26b5be.json",
+            "@type": "sc:Manifest",
+            "label": "一円銀貨（明治七年式）",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/897ade9dab6cff8c741af0d29c26b5be_1.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -167,6 +209,34 @@
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/27359e3066a79d7689bdfe9e67195efb.json",
+            "@type": "sc:Manifest",
+            "label": "一サンチーム銅貨",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/27359e3066a79d7689bdfe9e67195efb_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/5da619cf2fed52542cf8eece9d7524f5.json",
+            "@type": "sc:Manifest",
+            "label": "一両銀貨（光武二年）",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/5da619cf2fed52542cf8eece9d7524f5_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/90b09cde94fea6beb903fde8eec0b900.json",
+            "@type": "sc:Manifest",
+            "label": "一円銀貨（明治七年式）",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/90b09cde94fea6beb903fde8eec0b900_1.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/84597d0b15f78f62e7f63fbb01bf8add.json",
+            "@type": "sc:Manifest",
+            "label": "マライ方面不知銭",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/84597d0b15f78f62e7f63fbb01bf8add_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/5cb0a997a27f57c67283b6f1614ac4a6.json",
             "@type": "sc:Manifest",
             "label": "1フランアルミ青銅貨",
@@ -188,6 +258,13 @@
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/e7347ea60c9dba501b972eeab9a15ea2.json",
+            "@type": "sc:Manifest",
+            "label": "一セント銅貨",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/e7347ea60c9dba501b972eeab9a15ea2_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/70a9ad789362862028bc8bdb9e6b2756.json",
             "@type": "sc:Manifest",
             "label": "2文銅貨",
@@ -199,6 +276,13 @@
             "@type": "sc:Manifest",
             "label": "?州軍餉",
             "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/e3e07cdbbc31ec3a79c771834bb2231c_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/db4cf067321e998219d96b3277f62bf0.json",
+            "@type": "sc:Manifest",
+            "label": "一円銀貨（明治七年式）",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/db4cf067321e998219d96b3277f62bf0_1.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -220,6 +304,20 @@
             "@type": "sc:Manifest",
             "label": "シャム陶銭",
             "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/5f0272c66001a51cf42d944a729fac76_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/4dc6b96fb6cbbd33fa50db808600a08d.json",
+            "@type": "sc:Manifest",
+            "label": "一円金貨（明治5年11月式）",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/4dc6b96fb6cbbd33fa50db808600a08d_1.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/159f5a2ebc5cf67b368fd36e619c50c1.json",
+            "@type": "sc:Manifest",
+            "label": "バンタン銭",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/159f5a2ebc5cf67b368fd36e619c50c1_0.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -255,6 +353,20 @@
             "@type": "sc:Manifest",
             "label": "〓切銀",
             "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/b756d8f67bf0502be72211dd23249f85_1.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/f7eebdca7cd109452f41bdb1332c71b7.json",
+            "@type": "sc:Manifest",
+            "label": "一円銀貨（明治七年式）",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/f7eebdca7cd109452f41bdb1332c71b7_1.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/df31809f037d1da8e68135b51cd8b25f.json",
+            "@type": "sc:Manifest",
+            "label": "一フランアルミニウム青銅貨",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/df31809f037d1da8e68135b51cd8b25f_0.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -300,6 +412,13 @@
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/d71fa5fc44a26aed0d6e3f63a16c52be.json",
+            "@type": "sc:Manifest",
+            "label": "一セント銅貨",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/d71fa5fc44a26aed0d6e3f63a16c52be_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/ad195ed68b2b7f67a6965b90d9e8c883.json",
             "@type": "sc:Manifest",
             "label": "?刀五百",
@@ -342,6 +461,13 @@
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/99d03ba3b126b1aaac1c76562d4b2e0f.json",
+            "@type": "sc:Manifest",
+            "label": "シャム陶銭",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/99d03ba3b126b1aaac1c76562d4b2e0f_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/2ef732d3e320402e234e83914ea07523.json",
             "@type": "sc:Manifest",
             "label": "かせ糸代切手",
@@ -367,6 +493,13 @@
             "@type": "sc:Manifest",
             "label": "シャム陶銭",
             "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/34100544adc957649499155955137e4b_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/1edaeadee17c3a44991e0ddf2fd80316.json",
+            "@type": "sc:Manifest",
+            "label": "一セント銅貨",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/1edaeadee17c3a44991e0ddf2fd80316_0.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -405,6 +538,13 @@
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/3bf15cb8d145eb0853ba7156afce627c.json",
+            "@type": "sc:Manifest",
+            "label": "一円銀貨（明治七年式）",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/3bf15cb8d145eb0853ba7156afce627c_1.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/94ec6f55b46329f31a25cbbf2fbd69d4.json",
             "@type": "sc:Manifest",
             "label": "かせ糸代切手",
@@ -423,6 +563,20 @@
             "@type": "sc:Manifest",
             "label": "かせ糸代切手",
             "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/ee2a16e480937de389b071de78ef5a4e_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/6e652c56cac9f753a605c117e7d7c8ea.json",
+            "@type": "sc:Manifest",
+            "label": "一円銀貨（民国12年）",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/6e652c56cac9f753a605c117e7d7c8ea_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/d43c513ae573aa572f84fc558728d9f3.json",
+            "@type": "sc:Manifest",
+            "label": "一円銀貨（民国三年式）",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/d43c513ae573aa572f84fc558728d9f3_0.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -447,6 +601,20 @@
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/02743ec1de41288ea5ea9d95ad78a994.json",
+            "@type": "sc:Manifest",
+            "label": "一セント銅貨",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/02743ec1de41288ea5ea9d95ad78a994_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/789781bac75988adf49d349e831e49e4.json",
+            "@type": "sc:Manifest",
+            "label": "一ピアストル銀貨",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/789781bac75988adf49d349e831e49e4_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/50a8876a3f497805e7fef65a9ca1d251.json",
             "@type": "sc:Manifest",
             "label": "シャム陶銭",
@@ -454,10 +622,24 @@
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/45386c5c4a4ceffb5fd3d6c25aa534ff.json",
+            "@type": "sc:Manifest",
+            "label": "一両銀貨（開国五〇二年）",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/45386c5c4a4ceffb5fd3d6c25aa534ff_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/fa3268352de8d86fe81d1e169ccdbdea.json",
             "@type": "sc:Manifest",
             "label": "2文銅貨",
             "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/fa3268352de8d86fe81d1e169ccdbdea_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/45d7a742259d10ccdbd911d2072460f1.json",
+            "@type": "sc:Manifest",
+            "label": "一円銀貨（明治七年式）",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/45d7a742259d10ccdbd911d2072460f1_1.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -475,6 +657,48 @@
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/5446371e9a050f8ccfbdb3cf39f54622.json",
+            "@type": "sc:Manifest",
+            "label": "一ドル貿易銀貨",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/5446371e9a050f8ccfbdb3cf39f54622_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/3507f1d3e052a40588744c896aa87e66.json",
+            "@type": "sc:Manifest",
+            "label": "マライ方面不知銭",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/3507f1d3e052a40588744c896aa87e66_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/83e7ad5d3f5f7d2620bb36b548e2ac8d.json",
+            "@type": "sc:Manifest",
+            "label": "一円金貨（明治5年2月式）",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/83e7ad5d3f5f7d2620bb36b548e2ac8d_1.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/2ec118cf9afdfda33225b28ab7d1f296.json",
+            "@type": "sc:Manifest",
+            "label": "一セント銅貨",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/2ec118cf9afdfda33225b28ab7d1f296_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/f78ba529696c7a35287573715d9f4135.json",
+            "@type": "sc:Manifest",
+            "label": "シャム陶銭",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/f78ba529696c7a35287573715d9f4135_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/fabb2796343f690c96c682f46646593a.json",
+            "@type": "sc:Manifest",
+            "label": "一フランアルミニウム青銅貨",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/fabb2796343f690c96c682f46646593a_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/d5e267883978f59b4ef66229cd980f59.json",
             "@type": "sc:Manifest",
             "label": "1サンチーム銅貨",
@@ -482,10 +706,45 @@
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/679a9e608c39639b745737169e32ae86.json",
+            "@type": "sc:Manifest",
+            "label": "一両銀貨（光武二年）",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/679a9e608c39639b745737169e32ae86_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/993f67b8c038f98e01c6f7d2edbf150b.json",
+            "@type": "sc:Manifest",
+            "label": "一セント銅貨",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/993f67b8c038f98e01c6f7d2edbf150b_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/8e40dbc9ae18eda21efe8ecc89831045.json",
+            "@type": "sc:Manifest",
+            "label": "ヤップ島石貨",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/8e40dbc9ae18eda21efe8ecc89831045_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/ce67f84f6f16b563b7317d5289cf13bf.json",
             "@type": "sc:Manifest",
             "label": "シャム1／4チカル銀貨",
             "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/ce67f84f6f16b563b7317d5289cf13bf_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/0450bbf2ec2e31808421479567c92bfa.json",
+            "@type": "sc:Manifest",
+            "label": "一円銀貨（明治七年式）",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/0450bbf2ec2e31808421479567c92bfa_1.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/d793c99c651ef4152ff845b7a73b62d0.json",
+            "@type": "sc:Manifest",
+            "label": "一円銀貨（明治七年式）",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/d793c99c651ef4152ff845b7a73b62d0_1.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -503,6 +762,20 @@
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/f37b0a1540fad1e5f4f2880f132784c1.json",
+            "@type": "sc:Manifest",
+            "label": "シャム陶銭",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/f37b0a1540fad1e5f4f2880f132784c1_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/e406da99fadd21265bab375ee131b51a.json",
+            "@type": "sc:Manifest",
+            "label": "一円銀貨（明治七年式）",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/e406da99fadd21265bab375ee131b51a_1.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/b63297e7816390f7c1255da61e963748.json",
             "@type": "sc:Manifest",
             "label": "2文銅貨",
@@ -510,10 +783,31 @@
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/d29acc852c51f15936719acef2e02b56.json",
+            "@type": "sc:Manifest",
+            "label": "一ペソ銀貨",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/d29acc852c51f15936719acef2e02b56_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/3f863d0a53af759c0fbf7029412bb742.json",
             "@type": "sc:Manifest",
             "label": "シャム陶銭",
             "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/3f863d0a53af759c0fbf7029412bb742_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/8e7d37f6d7516a5c3618c8d01fae49ec.json",
+            "@type": "sc:Manifest",
+            "label": "一セント銅貨",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/8e7d37f6d7516a5c3618c8d01fae49ec_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/43028b73b2adcfe6c1c7b38c8fe869d9.json",
+            "@type": "sc:Manifest",
+            "label": "一フランアルミニウム青銅貨",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/43028b73b2adcfe6c1c7b38c8fe869d9_0.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -563,6 +857,20 @@
             "@type": "sc:Manifest",
             "label": "10カペエクニッケル黄銅貨",
             "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/55f5bb4f4b04a4d068b06a93d1624173_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/68162ef3f65c201305c67adee0dc9751.json",
+            "@type": "sc:Manifest",
+            "label": "バンタン銭",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/68162ef3f65c201305c67adee0dc9751_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/426dc8fdcc6e2c4e156490d60c9679d7.json",
+            "@type": "sc:Manifest",
+            "label": "一セント銅貨",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/426dc8fdcc6e2c4e156490d60c9679d7_0.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -650,6 +958,34 @@
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/fafc691f38bc4eb278299cff875270a5.json",
+            "@type": "sc:Manifest",
+            "label": "一セント銅貨",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/fafc691f38bc4eb278299cff875270a5_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/5c92e86977645001f09acd8d1bd055d9.json",
+            "@type": "sc:Manifest",
+            "label": "一円銀貨（民国12年）",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/5c92e86977645001f09acd8d1bd055d9_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/c3be1e4ad5381716b44c3c0f1041cffc.json",
+            "@type": "sc:Manifest",
+            "label": "一セント銅貨",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/c3be1e4ad5381716b44c3c0f1041cffc_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/99283d051b82d986942a1cf989604a60.json",
+            "@type": "sc:Manifest",
+            "label": "バンタン銭",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/99283d051b82d986942a1cf989604a60_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/44bf558df7d45f29ee65fb66001836fd.json",
             "@type": "sc:Manifest",
             "label": "1センタボ青銅貨",
@@ -685,10 +1021,24 @@
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/b9e67d17a762d602d110071e3043dae2.json",
+            "@type": "sc:Manifest",
+            "label": "一円銀貨（明治七年式）",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/b9e67d17a762d602d110071e3043dae2_1.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/9ae168e169ea20ccd01c1246cad2a8e2.json",
             "@type": "sc:Manifest",
             "label": "1セント銅貨",
             "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/9ae168e169ea20ccd01c1246cad2a8e2_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/b5249e624e2055f08a64a7af04582d6a.json",
+            "@type": "sc:Manifest",
+            "label": "一円銀貨（民国三年式）",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/b5249e624e2055f08a64a7af04582d6a_0.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -713,10 +1063,52 @@
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/a8e658b6aa7b828daf0d0d8d589febf1.json",
+            "@type": "sc:Manifest",
+            "label": "一セント銅貨",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/a8e658b6aa7b828daf0d0d8d589febf1_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/5cdde9546bc3579114b930e6115ecf92.json",
+            "@type": "sc:Manifest",
+            "label": "一円銀貨（民国三年式）",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/5cdde9546bc3579114b930e6115ecf92_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/4934412888569ecccbb75282cd28a0b9.json",
+            "@type": "sc:Manifest",
+            "label": "一フランアルミニウム青銅貨",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/4934412888569ecccbb75282cd28a0b9_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/bc3110a3f6f166f6af00a7aa4cd39e08.json",
             "@type": "sc:Manifest",
             "label": "5サンチーム白銅貨",
             "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/bc3110a3f6f166f6af00a7aa4cd39e08_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/85a1978f3d4142afc347e6fb7e07623e.json",
+            "@type": "sc:Manifest",
+            "label": "シャム陶銭",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/85a1978f3d4142afc347e6fb7e07623e_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/732384a67da4400e29954a9e7c9609c5.json",
+            "@type": "sc:Manifest",
+            "label": "一両銀貨（開国五〇一年）",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/732384a67da4400e29954a9e7c9609c5_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/e3d5443f625775de6e25563ebc5bcad8.json",
+            "@type": "sc:Manifest",
+            "label": "一セント銅貨",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/e3d5443f625775de6e25563ebc5bcad8_0.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -748,6 +1140,13 @@
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/a6db88d8c381a96b898814574d29e617.json",
+            "@type": "sc:Manifest",
+            "label": "一円銀貨（明治七年式）",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/a6db88d8c381a96b898814574d29e617_1.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/53e186596b0844ef77937f00cfa5c27d.json",
             "@type": "sc:Manifest",
             "label": "シャム陶銭",
@@ -759,6 +1158,20 @@
             "@type": "sc:Manifest",
             "label": "シャム陶銭",
             "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/aa086a68937ca696a2f86c6a5684f165_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/068a6f8c3e9ba190c1f7fe927c02919e.json",
+            "@type": "sc:Manifest",
+            "label": "シャム陶銭",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/068a6f8c3e9ba190c1f7fe927c02919e_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/42c2b6bcff456612424f27528ab25306.json",
+            "@type": "sc:Manifest",
+            "label": "一円銀貨（明治七年式）",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/42c2b6bcff456612424f27528ab25306_1.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -797,6 +1210,13 @@
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/ce0157bfc96ad2cd215eb126827f115a.json",
+            "@type": "sc:Manifest",
+            "label": "一円銀貨（明治七年式）",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/ce0157bfc96ad2cd215eb126827f115a_1.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/4117408a7286e2ab3ed49df428707139.json",
             "@type": "sc:Manifest",
             "label": "シャム陶銭",
@@ -815,6 +1235,20 @@
             "@type": "sc:Manifest",
             "label": "1センタボ青銅貨",
             "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/49d9ad3cf94794164551696df28a2c84_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/f25cdb19cb362c8b8badc94ae30b59e9.json",
+            "@type": "sc:Manifest",
+            "label": "一円銀貨（明治七年式）",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/f25cdb19cb362c8b8badc94ae30b59e9_1.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/623c527600a66651100302a60f4a4d99.json",
+            "@type": "sc:Manifest",
+            "label": "一円銀貨",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/623c527600a66651100302a60f4a4d99_0.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -881,6 +1315,20 @@
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/4055bb52f9739385d1fa930124c03bf8.json",
+            "@type": "sc:Manifest",
+            "label": "シャム陶銭",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/4055bb52f9739385d1fa930124c03bf8_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/f70462490d98ebd6c8d1604742e75639.json",
+            "@type": "sc:Manifest",
+            "label": "一円銀貨（明治七年式）",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/f70462490d98ebd6c8d1604742e75639_1.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/905578ef3c5bba3b5ca9baf0aa4f1b4a.json",
             "@type": "sc:Manifest",
             "label": "シャム陶銭",
@@ -902,10 +1350,24 @@
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/882b5a5de6fe9da8dd6fdb9dad14afb0.json",
+            "@type": "sc:Manifest",
+            "label": "一ピアストル銀貨",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/882b5a5de6fe9da8dd6fdb9dad14afb0_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/28c99c4e508122e26ad402c390f94b9f.json",
             "@type": "sc:Manifest",
             "label": "1センタボ青銅貨",
             "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/28c99c4e508122e26ad402c390f94b9f_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/e69e45bd682ba5e7fcca54605140f978.json",
+            "@type": "sc:Manifest",
+            "label": "一円銀貨（明治七年式）",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/e69e45bd682ba5e7fcca54605140f978_1.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -923,6 +1385,13 @@
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/994bc75d2fdc307e18b092cf6a5bf9cd.json",
+            "@type": "sc:Manifest",
+            "label": "一五銭",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/994bc75d2fdc307e18b092cf6a5bf9cd_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/007f346d50d7b7c4cdedb3bcfefe8b81.json",
             "@type": "sc:Manifest",
             "label": "シャム陶銭",
@@ -934,6 +1403,13 @@
             "@type": "sc:Manifest",
             "label": "1センタボ青銅貨",
             "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/dbd9f484771b3535a6da85ed8312b05e_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/3c839db7a088d7bfdffd2e1e85743b12.json",
+            "@type": "sc:Manifest",
+            "label": "一ドル銀貨",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/3c839db7a088d7bfdffd2e1e85743b12_0.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -951,6 +1427,13 @@
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/b07529a7c3289b80257e16ea1452024f.json",
+            "@type": "sc:Manifest",
+            "label": "シャム陶銭",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/b07529a7c3289b80257e16ea1452024f_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/fe757a3101ca44bfc44457c98d638f07.json",
             "@type": "sc:Manifest",
             "label": "かせ糸代切手",
@@ -965,10 +1448,38 @@
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/fe398115d9bce6761f1e81b295f8e72f.json",
+            "@type": "sc:Manifest",
+            "label": "一円銀貨（明治七年式）",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/fe398115d9bce6761f1e81b295f8e72f_1.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/ac56d2d0d4d2a9513dca0d16287228d3.json",
+            "@type": "sc:Manifest",
+            "label": "一円銀貨（明治七年式）",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/ac56d2d0d4d2a9513dca0d16287228d3_1.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/b371e221b33f5ab83536abf61df47551.json",
             "@type": "sc:Manifest",
             "label": "シャム陶銭",
             "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/b371e221b33f5ab83536abf61df47551_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/4ac029e0fd35bda76f60e34103a07e3e.json",
+            "@type": "sc:Manifest",
+            "label": "ツリ手形",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/4ac029e0fd35bda76f60e34103a07e3e_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/c3434771c38d50b7c05ba6bda0c7bcb4.json",
+            "@type": "sc:Manifest",
+            "label": "シャム陶銭",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/c3434771c38d50b7c05ba6bda0c7bcb4_0.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -986,6 +1497,13 @@
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/bb3c1df033c4f7a86644ab077b5fb6ab.json",
+            "@type": "sc:Manifest",
+            "label": "一セント銅貨",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/bb3c1df033c4f7a86644ab077b5fb6ab_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/581fbfde3fae6518883744ed7bf136cc.json",
             "@type": "sc:Manifest",
             "label": "シャム陶銭",
@@ -993,10 +1511,24 @@
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/92ed4b701e9f97c92d40685f9030e575.json",
+            "@type": "sc:Manifest",
+            "label": "一円銀貨（明治七年式）",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/92ed4b701e9f97c92d40685f9030e575_1.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/79b23a27cc4fb1fa95ef81215bb3017d.json",
             "@type": "sc:Manifest",
             "label": "1センタボ青銅貨",
             "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/79b23a27cc4fb1fa95ef81215bb3017d_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/4dbc846d84e655ed3e578ece583c1d7f.json",
+            "@type": "sc:Manifest",
+            "label": "一円銀貨（明治七年式）",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/4dbc846d84e655ed3e578ece583c1d7f_1.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -1018,6 +1550,13 @@
             "@type": "sc:Manifest",
             "label": "5センタボ白銅貨",
             "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/29295c3c5beac890f384104389896aee_0.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/88b4d3b77ea93019a8a0a3403a59601a.json",
+            "@type": "sc:Manifest",
+            "label": "一セント銅貨",
+            "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/88b4d3b77ea93019a8a0a3403a59601a_0.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -1047,5 +1586,6 @@
             "label": "シャム陶銭",
             "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/aa6ee7eb4c16f2dc9f01c1263e281e3c_0.jpg"
         }
-    ]
+    ],
+    "vhint": "use-thumb"
 }
