@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "http://www.uf.a.u-tokyo.ac.jp/tori/species/yabusame/yabusame.html",
+    "@id": "https://nakamura196.github.io/portal_iiif/data/tori/7a7753a9-543d-40be-a1e3-06acf15c0da2.json",
     "@type": "sc:Manifest",
     "attribution": "農学生命科学研究科・農学部",
     "label": "ヤブサメ",
@@ -52,19 +52,19 @@
     "seeAlso": "https://da.dl.itc.u-tokyo.ac.jp/portal/assets/7a7753a9-543d-40be-a1e3-06acf15c0da2?_format=json",
     "sequences": [
         {
-            "@id": "http://www.uf.a.u-tokyo.ac.jp/tori/species/yabusame/yabusame.html/sequence/normal",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/7a7753a9-543d-40be-a1e3-06acf15c0da2.json/sequence/normal",
             "@type": "sc:Sequence",
             "canvases": [
                 {
-                    "@id": "http://www.uf.a.u-tokyo.ac.jp/tori/species/yabusame/yabusame.html/canvas/p1",
+                    "@id": "https://nakamura196.github.io/portal_iiif/data/tori/7a7753a9-543d-40be-a1e3-06acf15c0da2.json/canvas/p1",
                     "@type": "sc:Canvas",
                     "height": 500,
                     "images": [
                         {
-                            "@id": "http://www.uf.a.u-tokyo.ac.jp/tori/species/yabusame/yabusame.html/annotation/p1-image",
+                            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/7a7753a9-543d-40be-a1e3-06acf15c0da2.json/annotation/p1-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "http://www.uf.a.u-tokyo.ac.jp/tori/species/yabusame/yabusame.html/canvas/p1",
+                            "on": "https://nakamura196.github.io/portal_iiif/data/tori/7a7753a9-543d-40be-a1e3-06acf15c0da2.json/canvas/p1",
                             "resource": {
                                 "@id": "http://www.uf.a.u-tokyo.ac.jp/tori/species/yabusame/01.jpg",
                                 "@type": "dctypes:Image",
@@ -81,15 +81,15 @@
                     "width": 780
                 },
                 {
-                    "@id": "http://www.uf.a.u-tokyo.ac.jp/tori/species/yabusame/yabusame.html/canvas/p2",
+                    "@id": "https://nakamura196.github.io/portal_iiif/data/tori/7a7753a9-543d-40be-a1e3-06acf15c0da2.json/canvas/p2",
                     "@type": "sc:Canvas",
                     "height": 500,
                     "images": [
                         {
-                            "@id": "http://www.uf.a.u-tokyo.ac.jp/tori/species/yabusame/yabusame.html/annotation/p2-image",
+                            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/7a7753a9-543d-40be-a1e3-06acf15c0da2.json/annotation/p2-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "http://www.uf.a.u-tokyo.ac.jp/tori/species/yabusame/yabusame.html/canvas/p2",
+                            "on": "https://nakamura196.github.io/portal_iiif/data/tori/7a7753a9-543d-40be-a1e3-06acf15c0da2.json/canvas/p2",
                             "resource": {
                                 "@id": "http://www.uf.a.u-tokyo.ac.jp/tori/species/yabusame/02.jpg",
                                 "@type": "dctypes:Image",
@@ -106,15 +106,15 @@
                     "width": 780
                 },
                 {
-                    "@id": "http://www.uf.a.u-tokyo.ac.jp/tori/species/yabusame/yabusame.html/canvas/p3",
+                    "@id": "https://nakamura196.github.io/portal_iiif/data/tori/7a7753a9-543d-40be-a1e3-06acf15c0da2.json/canvas/p3",
                     "@type": "sc:Canvas",
                     "height": 500,
                     "images": [
                         {
-                            "@id": "http://www.uf.a.u-tokyo.ac.jp/tori/species/yabusame/yabusame.html/annotation/p3-image",
+                            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/7a7753a9-543d-40be-a1e3-06acf15c0da2.json/annotation/p3-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "http://www.uf.a.u-tokyo.ac.jp/tori/species/yabusame/yabusame.html/canvas/p3",
+                            "on": "https://nakamura196.github.io/portal_iiif/data/tori/7a7753a9-543d-40be-a1e3-06acf15c0da2.json/canvas/p3",
                             "resource": {
                                 "@id": "http://www.uf.a.u-tokyo.ac.jp/tori/species/yabusame/03.jpg",
                                 "@type": "dctypes:Image",
@@ -131,15 +131,15 @@
                     "width": 780
                 },
                 {
-                    "@id": "http://www.uf.a.u-tokyo.ac.jp/tori/species/yabusame/yabusame.html/canvas/p4",
+                    "@id": "https://nakamura196.github.io/portal_iiif/data/tori/7a7753a9-543d-40be-a1e3-06acf15c0da2.json/canvas/p4",
                     "@type": "sc:Canvas",
                     "height": 500,
                     "images": [
                         {
-                            "@id": "http://www.uf.a.u-tokyo.ac.jp/tori/species/yabusame/yabusame.html/annotation/p4-image",
+                            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/7a7753a9-543d-40be-a1e3-06acf15c0da2.json/annotation/p4-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "http://www.uf.a.u-tokyo.ac.jp/tori/species/yabusame/yabusame.html/canvas/p4",
+                            "on": "https://nakamura196.github.io/portal_iiif/data/tori/7a7753a9-543d-40be-a1e3-06acf15c0da2.json/canvas/p4",
                             "resource": {
                                 "@id": "http://www.uf.a.u-tokyo.ac.jp/tori/species/yabusame/04.jpg",
                                 "@type": "dctypes:Image",

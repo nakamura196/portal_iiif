@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "http://www.uf.a.u-tokyo.ac.jp/tori/species/kirenjyaku/kirenjyaku.html",
+    "@id": "https://nakamura196.github.io/portal_iiif/data/tori/d40ccab6-905c-4c2f-86dc-e1a1ae53d1f2.json",
     "@type": "sc:Manifest",
     "attribution": "農学生命科学研究科・農学部",
     "label": "キレンジャク",
@@ -52,19 +52,19 @@
     "seeAlso": "https://da.dl.itc.u-tokyo.ac.jp/portal/assets/d40ccab6-905c-4c2f-86dc-e1a1ae53d1f2?_format=json",
     "sequences": [
         {
-            "@id": "http://www.uf.a.u-tokyo.ac.jp/tori/species/kirenjyaku/kirenjyaku.html/sequence/normal",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/d40ccab6-905c-4c2f-86dc-e1a1ae53d1f2.json/sequence/normal",
             "@type": "sc:Sequence",
             "canvases": [
                 {
-                    "@id": "http://www.uf.a.u-tokyo.ac.jp/tori/species/kirenjyaku/kirenjyaku.html/canvas/p1",
+                    "@id": "https://nakamura196.github.io/portal_iiif/data/tori/d40ccab6-905c-4c2f-86dc-e1a1ae53d1f2.json/canvas/p1",
                     "@type": "sc:Canvas",
                     "height": 500,
                     "images": [
                         {
-                            "@id": "http://www.uf.a.u-tokyo.ac.jp/tori/species/kirenjyaku/kirenjyaku.html/annotation/p1-image",
+                            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/d40ccab6-905c-4c2f-86dc-e1a1ae53d1f2.json/annotation/p1-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "http://www.uf.a.u-tokyo.ac.jp/tori/species/kirenjyaku/kirenjyaku.html/canvas/p1",
+                            "on": "https://nakamura196.github.io/portal_iiif/data/tori/d40ccab6-905c-4c2f-86dc-e1a1ae53d1f2.json/canvas/p1",
                             "resource": {
                                 "@id": "http://www.uf.a.u-tokyo.ac.jp/tori/species/kirenjyaku/01.jpg",
                                 "@type": "dctypes:Image",
@@ -81,15 +81,15 @@
                     "width": 780
                 },
                 {
-                    "@id": "http://www.uf.a.u-tokyo.ac.jp/tori/species/kirenjyaku/kirenjyaku.html/canvas/p2",
+                    "@id": "https://nakamura196.github.io/portal_iiif/data/tori/d40ccab6-905c-4c2f-86dc-e1a1ae53d1f2.json/canvas/p2",
                     "@type": "sc:Canvas",
                     "height": 500,
                     "images": [
                         {
-                            "@id": "http://www.uf.a.u-tokyo.ac.jp/tori/species/kirenjyaku/kirenjyaku.html/annotation/p2-image",
+                            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/d40ccab6-905c-4c2f-86dc-e1a1ae53d1f2.json/annotation/p2-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "http://www.uf.a.u-tokyo.ac.jp/tori/species/kirenjyaku/kirenjyaku.html/canvas/p2",
+                            "on": "https://nakamura196.github.io/portal_iiif/data/tori/d40ccab6-905c-4c2f-86dc-e1a1ae53d1f2.json/canvas/p2",
                             "resource": {
                                 "@id": "http://www.uf.a.u-tokyo.ac.jp/tori/species/kirenjyaku/02.jpg",
                                 "@type": "dctypes:Image",
@@ -106,15 +106,15 @@
                     "width": 780
                 },
                 {
-                    "@id": "http://www.uf.a.u-tokyo.ac.jp/tori/species/kirenjyaku/kirenjyaku.html/canvas/p3",
+                    "@id": "https://nakamura196.github.io/portal_iiif/data/tori/d40ccab6-905c-4c2f-86dc-e1a1ae53d1f2.json/canvas/p3",
                     "@type": "sc:Canvas",
                     "height": 500,
                     "images": [
                         {
-                            "@id": "http://www.uf.a.u-tokyo.ac.jp/tori/species/kirenjyaku/kirenjyaku.html/annotation/p3-image",
+                            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/d40ccab6-905c-4c2f-86dc-e1a1ae53d1f2.json/annotation/p3-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "http://www.uf.a.u-tokyo.ac.jp/tori/species/kirenjyaku/kirenjyaku.html/canvas/p3",
+                            "on": "https://nakamura196.github.io/portal_iiif/data/tori/d40ccab6-905c-4c2f-86dc-e1a1ae53d1f2.json/canvas/p3",
                             "resource": {
                                 "@id": "http://www.uf.a.u-tokyo.ac.jp/tori/species/kirenjyaku/03.jpg",
                                 "@type": "dctypes:Image",

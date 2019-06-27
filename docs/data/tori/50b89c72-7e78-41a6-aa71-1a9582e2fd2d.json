@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "http://www.uf.a.u-tokyo.ac.jp/tori/species/kusashigi/kusashigi.html",
+    "@id": "https://nakamura196.github.io/portal_iiif/data/tori/50b89c72-7e78-41a6-aa71-1a9582e2fd2d.json",
     "@type": "sc:Manifest",
     "attribution": "農学生命科学研究科・農学部",
     "label": "クサシギ",
@@ -52,19 +52,19 @@
     "seeAlso": "https://da.dl.itc.u-tokyo.ac.jp/portal/assets/50b89c72-7e78-41a6-aa71-1a9582e2fd2d?_format=json",
     "sequences": [
         {
-            "@id": "http://www.uf.a.u-tokyo.ac.jp/tori/species/kusashigi/kusashigi.html/sequence/normal",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/50b89c72-7e78-41a6-aa71-1a9582e2fd2d.json/sequence/normal",
             "@type": "sc:Sequence",
             "canvases": [
                 {
-                    "@id": "http://www.uf.a.u-tokyo.ac.jp/tori/species/kusashigi/kusashigi.html/canvas/p1",
+                    "@id": "https://nakamura196.github.io/portal_iiif/data/tori/50b89c72-7e78-41a6-aa71-1a9582e2fd2d.json/canvas/p1",
                     "@type": "sc:Canvas",
                     "height": 500,
                     "images": [
                         {
-                            "@id": "http://www.uf.a.u-tokyo.ac.jp/tori/species/kusashigi/kusashigi.html/annotation/p1-image",
+                            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/50b89c72-7e78-41a6-aa71-1a9582e2fd2d.json/annotation/p1-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "http://www.uf.a.u-tokyo.ac.jp/tori/species/kusashigi/kusashigi.html/canvas/p1",
+                            "on": "https://nakamura196.github.io/portal_iiif/data/tori/50b89c72-7e78-41a6-aa71-1a9582e2fd2d.json/canvas/p1",
                             "resource": {
                                 "@id": "http://www.uf.a.u-tokyo.ac.jp/tori/species/kusashigi/01.jpg",
                                 "@type": "dctypes:Image",
@@ -81,15 +81,15 @@
                     "width": 780
                 },
                 {
-                    "@id": "http://www.uf.a.u-tokyo.ac.jp/tori/species/kusashigi/kusashigi.html/canvas/p2",
+                    "@id": "https://nakamura196.github.io/portal_iiif/data/tori/50b89c72-7e78-41a6-aa71-1a9582e2fd2d.json/canvas/p2",
                     "@type": "sc:Canvas",
                     "height": 500,
                     "images": [
                         {
-                            "@id": "http://www.uf.a.u-tokyo.ac.jp/tori/species/kusashigi/kusashigi.html/annotation/p2-image",
+                            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/50b89c72-7e78-41a6-aa71-1a9582e2fd2d.json/annotation/p2-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "http://www.uf.a.u-tokyo.ac.jp/tori/species/kusashigi/kusashigi.html/canvas/p2",
+                            "on": "https://nakamura196.github.io/portal_iiif/data/tori/50b89c72-7e78-41a6-aa71-1a9582e2fd2d.json/canvas/p2",
                             "resource": {
                                 "@id": "http://www.uf.a.u-tokyo.ac.jp/tori/species/kusashigi/02.jpg",
                                 "@type": "dctypes:Image",

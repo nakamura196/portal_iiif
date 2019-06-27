@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "http://www.uf.a.u-tokyo.ac.jp/tori/species/kikuitadaki/kikuitadaki.html",
+    "@id": "https://nakamura196.github.io/portal_iiif/data/tori/7b34ca51-a577-48dc-9c45-3034e6ed2c5f.json",
     "@type": "sc:Manifest",
     "attribution": "農学生命科学研究科・農学部",
     "label": "キクイタダキ",
@@ -52,19 +52,19 @@
     "seeAlso": "https://da.dl.itc.u-tokyo.ac.jp/portal/assets/7b34ca51-a577-48dc-9c45-3034e6ed2c5f?_format=json",
     "sequences": [
         {
-            "@id": "http://www.uf.a.u-tokyo.ac.jp/tori/species/kikuitadaki/kikuitadaki.html/sequence/normal",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/7b34ca51-a577-48dc-9c45-3034e6ed2c5f.json/sequence/normal",
             "@type": "sc:Sequence",
             "canvases": [
                 {
-                    "@id": "http://www.uf.a.u-tokyo.ac.jp/tori/species/kikuitadaki/kikuitadaki.html/canvas/p1",
+                    "@id": "https://nakamura196.github.io/portal_iiif/data/tori/7b34ca51-a577-48dc-9c45-3034e6ed2c5f.json/canvas/p1",
                     "@type": "sc:Canvas",
                     "height": 500,
                     "images": [
                         {
-                            "@id": "http://www.uf.a.u-tokyo.ac.jp/tori/species/kikuitadaki/kikuitadaki.html/annotation/p1-image",
+                            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/7b34ca51-a577-48dc-9c45-3034e6ed2c5f.json/annotation/p1-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "http://www.uf.a.u-tokyo.ac.jp/tori/species/kikuitadaki/kikuitadaki.html/canvas/p1",
+                            "on": "https://nakamura196.github.io/portal_iiif/data/tori/7b34ca51-a577-48dc-9c45-3034e6ed2c5f.json/canvas/p1",
                             "resource": {
                                 "@id": "http://www.uf.a.u-tokyo.ac.jp/tori/species/kikuitadaki/01.jpg",
                                 "@type": "dctypes:Image",
@@ -81,15 +81,15 @@
                     "width": 780
                 },
                 {
-                    "@id": "http://www.uf.a.u-tokyo.ac.jp/tori/species/kikuitadaki/kikuitadaki.html/canvas/p2",
+                    "@id": "https://nakamura196.github.io/portal_iiif/data/tori/7b34ca51-a577-48dc-9c45-3034e6ed2c5f.json/canvas/p2",
                     "@type": "sc:Canvas",
                     "height": 500,
                     "images": [
                         {
-                            "@id": "http://www.uf.a.u-tokyo.ac.jp/tori/species/kikuitadaki/kikuitadaki.html/annotation/p2-image",
+                            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/7b34ca51-a577-48dc-9c45-3034e6ed2c5f.json/annotation/p2-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "http://www.uf.a.u-tokyo.ac.jp/tori/species/kikuitadaki/kikuitadaki.html/canvas/p2",
+                            "on": "https://nakamura196.github.io/portal_iiif/data/tori/7b34ca51-a577-48dc-9c45-3034e6ed2c5f.json/canvas/p2",
                             "resource": {
                                 "@id": "http://www.uf.a.u-tokyo.ac.jp/tori/species/kikuitadaki/02.jpg",
                                 "@type": "dctypes:Image",
@@ -106,15 +106,15 @@
                     "width": 780
                 },
                 {
-                    "@id": "http://www.uf.a.u-tokyo.ac.jp/tori/species/kikuitadaki/kikuitadaki.html/canvas/p3",
+                    "@id": "https://nakamura196.github.io/portal_iiif/data/tori/7b34ca51-a577-48dc-9c45-3034e6ed2c5f.json/canvas/p3",
                     "@type": "sc:Canvas",
                     "height": 500,
                     "images": [
                         {
-                            "@id": "http://www.uf.a.u-tokyo.ac.jp/tori/species/kikuitadaki/kikuitadaki.html/annotation/p3-image",
+                            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/7b34ca51-a577-48dc-9c45-3034e6ed2c5f.json/annotation/p3-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "http://www.uf.a.u-tokyo.ac.jp/tori/species/kikuitadaki/kikuitadaki.html/canvas/p3",
+                            "on": "https://nakamura196.github.io/portal_iiif/data/tori/7b34ca51-a577-48dc-9c45-3034e6ed2c5f.json/canvas/p3",
                             "resource": {
                                 "@id": "http://www.uf.a.u-tokyo.ac.jp/tori/species/kikuitadaki/03.jpg",
                                 "@type": "dctypes:Image",

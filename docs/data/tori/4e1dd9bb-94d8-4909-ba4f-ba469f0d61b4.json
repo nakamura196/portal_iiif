@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "http://www.uf.a.u-tokyo.ac.jp/tori/species/suzume/suzume.html",
+    "@id": "https://nakamura196.github.io/portal_iiif/data/tori/4e1dd9bb-94d8-4909-ba4f-ba469f0d61b4.json",
     "@type": "sc:Manifest",
     "attribution": "農学生命科学研究科・農学部",
     "label": "スズメ",
@@ -52,19 +52,19 @@
     "seeAlso": "https://da.dl.itc.u-tokyo.ac.jp/portal/assets/4e1dd9bb-94d8-4909-ba4f-ba469f0d61b4?_format=json",
     "sequences": [
         {
-            "@id": "http://www.uf.a.u-tokyo.ac.jp/tori/species/suzume/suzume.html/sequence/normal",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/4e1dd9bb-94d8-4909-ba4f-ba469f0d61b4.json/sequence/normal",
             "@type": "sc:Sequence",
             "canvases": [
                 {
-                    "@id": "http://www.uf.a.u-tokyo.ac.jp/tori/species/suzume/suzume.html/canvas/p1",
+                    "@id": "https://nakamura196.github.io/portal_iiif/data/tori/4e1dd9bb-94d8-4909-ba4f-ba469f0d61b4.json/canvas/p1",
                     "@type": "sc:Canvas",
                     "height": 500,
                     "images": [
                         {
-                            "@id": "http://www.uf.a.u-tokyo.ac.jp/tori/species/suzume/suzume.html/annotation/p1-image",
+                            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/4e1dd9bb-94d8-4909-ba4f-ba469f0d61b4.json/annotation/p1-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "http://www.uf.a.u-tokyo.ac.jp/tori/species/suzume/suzume.html/canvas/p1",
+                            "on": "https://nakamura196.github.io/portal_iiif/data/tori/4e1dd9bb-94d8-4909-ba4f-ba469f0d61b4.json/canvas/p1",
                             "resource": {
                                 "@id": "http://www.uf.a.u-tokyo.ac.jp/tori/species/suzume/01.jpg",
                                 "@type": "dctypes:Image",
@@ -81,15 +81,15 @@
                     "width": 780
                 },
                 {
-                    "@id": "http://www.uf.a.u-tokyo.ac.jp/tori/species/suzume/suzume.html/canvas/p2",
+                    "@id": "https://nakamura196.github.io/portal_iiif/data/tori/4e1dd9bb-94d8-4909-ba4f-ba469f0d61b4.json/canvas/p2",
                     "@type": "sc:Canvas",
                     "height": 500,
                     "images": [
                         {
-                            "@id": "http://www.uf.a.u-tokyo.ac.jp/tori/species/suzume/suzume.html/annotation/p2-image",
+                            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/4e1dd9bb-94d8-4909-ba4f-ba469f0d61b4.json/annotation/p2-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "http://www.uf.a.u-tokyo.ac.jp/tori/species/suzume/suzume.html/canvas/p2",
+                            "on": "https://nakamura196.github.io/portal_iiif/data/tori/4e1dd9bb-94d8-4909-ba4f-ba469f0d61b4.json/canvas/p2",
                             "resource": {
                                 "@id": "http://www.uf.a.u-tokyo.ac.jp/tori/species/suzume/02.jpg",
                                 "@type": "dctypes:Image",
@@ -106,15 +106,15 @@
                     "width": 780
                 },
                 {
-                    "@id": "http://www.uf.a.u-tokyo.ac.jp/tori/species/suzume/suzume.html/canvas/p3",
+                    "@id": "https://nakamura196.github.io/portal_iiif/data/tori/4e1dd9bb-94d8-4909-ba4f-ba469f0d61b4.json/canvas/p3",
                     "@type": "sc:Canvas",
                     "height": 500,
                     "images": [
                         {
-                            "@id": "http://www.uf.a.u-tokyo.ac.jp/tori/species/suzume/suzume.html/annotation/p3-image",
+                            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/4e1dd9bb-94d8-4909-ba4f-ba469f0d61b4.json/annotation/p3-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "http://www.uf.a.u-tokyo.ac.jp/tori/species/suzume/suzume.html/canvas/p3",
+                            "on": "https://nakamura196.github.io/portal_iiif/data/tori/4e1dd9bb-94d8-4909-ba4f-ba469f0d61b4.json/canvas/p3",
                             "resource": {
                                 "@id": "http://www.uf.a.u-tokyo.ac.jp/tori/species/suzume/03.jpg",
                                 "@type": "dctypes:Image",

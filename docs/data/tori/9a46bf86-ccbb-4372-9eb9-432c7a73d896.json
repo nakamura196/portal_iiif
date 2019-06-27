@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "http://www.uf.a.u-tokyo.ac.jp/tori/species/koruri/koruri.html",
+    "@id": "https://nakamura196.github.io/portal_iiif/data/tori/9a46bf86-ccbb-4372-9eb9-432c7a73d896.json",
     "@type": "sc:Manifest",
     "attribution": "農学生命科学研究科・農学部",
     "label": "コルリ",
@@ -52,19 +52,19 @@
     "seeAlso": "https://da.dl.itc.u-tokyo.ac.jp/portal/assets/9a46bf86-ccbb-4372-9eb9-432c7a73d896?_format=json",
     "sequences": [
         {
-            "@id": "http://www.uf.a.u-tokyo.ac.jp/tori/species/koruri/koruri.html/sequence/normal",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/9a46bf86-ccbb-4372-9eb9-432c7a73d896.json/sequence/normal",
             "@type": "sc:Sequence",
             "canvases": [
                 {
-                    "@id": "http://www.uf.a.u-tokyo.ac.jp/tori/species/koruri/koruri.html/canvas/p1",
+                    "@id": "https://nakamura196.github.io/portal_iiif/data/tori/9a46bf86-ccbb-4372-9eb9-432c7a73d896.json/canvas/p1",
                     "@type": "sc:Canvas",
                     "height": 500,
                     "images": [
                         {
-                            "@id": "http://www.uf.a.u-tokyo.ac.jp/tori/species/koruri/koruri.html/annotation/p1-image",
+                            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/9a46bf86-ccbb-4372-9eb9-432c7a73d896.json/annotation/p1-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "http://www.uf.a.u-tokyo.ac.jp/tori/species/koruri/koruri.html/canvas/p1",
+                            "on": "https://nakamura196.github.io/portal_iiif/data/tori/9a46bf86-ccbb-4372-9eb9-432c7a73d896.json/canvas/p1",
                             "resource": {
                                 "@id": "http://www.uf.a.u-tokyo.ac.jp/tori/species/koruri/01.jpg",
                                 "@type": "dctypes:Image",

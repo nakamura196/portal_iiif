@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "http://www.uf.a.u-tokyo.ac.jp/tori/species/ootaka/ootaka.html",
+    "@id": "https://nakamura196.github.io/portal_iiif/data/tori/0473986b-d6d2-4e6f-bfa4-e9cf48ab668e.json",
     "@type": "sc:Manifest",
     "attribution": "農学生命科学研究科・農学部",
     "label": "オオタカ",
@@ -52,19 +52,19 @@
     "seeAlso": "https://da.dl.itc.u-tokyo.ac.jp/portal/assets/0473986b-d6d2-4e6f-bfa4-e9cf48ab668e?_format=json",
     "sequences": [
         {
-            "@id": "http://www.uf.a.u-tokyo.ac.jp/tori/species/ootaka/ootaka.html/sequence/normal",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/0473986b-d6d2-4e6f-bfa4-e9cf48ab668e.json/sequence/normal",
             "@type": "sc:Sequence",
             "canvases": [
                 {
-                    "@id": "http://www.uf.a.u-tokyo.ac.jp/tori/species/ootaka/ootaka.html/canvas/p1",
+                    "@id": "https://nakamura196.github.io/portal_iiif/data/tori/0473986b-d6d2-4e6f-bfa4-e9cf48ab668e.json/canvas/p1",
                     "@type": "sc:Canvas",
                     "height": 500,
                     "images": [
                         {
-                            "@id": "http://www.uf.a.u-tokyo.ac.jp/tori/species/ootaka/ootaka.html/annotation/p1-image",
+                            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/0473986b-d6d2-4e6f-bfa4-e9cf48ab668e.json/annotation/p1-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "http://www.uf.a.u-tokyo.ac.jp/tori/species/ootaka/ootaka.html/canvas/p1",
+                            "on": "https://nakamura196.github.io/portal_iiif/data/tori/0473986b-d6d2-4e6f-bfa4-e9cf48ab668e.json/canvas/p1",
                             "resource": {
                                 "@id": "http://www.uf.a.u-tokyo.ac.jp/tori/species/ootaka/01.jpg",
                                 "@type": "dctypes:Image",
@@ -81,15 +81,15 @@
                     "width": 780
                 },
                 {
-                    "@id": "http://www.uf.a.u-tokyo.ac.jp/tori/species/ootaka/ootaka.html/canvas/p2",
+                    "@id": "https://nakamura196.github.io/portal_iiif/data/tori/0473986b-d6d2-4e6f-bfa4-e9cf48ab668e.json/canvas/p2",
                     "@type": "sc:Canvas",
                     "height": 500,
                     "images": [
                         {
-                            "@id": "http://www.uf.a.u-tokyo.ac.jp/tori/species/ootaka/ootaka.html/annotation/p2-image",
+                            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/0473986b-d6d2-4e6f-bfa4-e9cf48ab668e.json/annotation/p2-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "http://www.uf.a.u-tokyo.ac.jp/tori/species/ootaka/ootaka.html/canvas/p2",
+                            "on": "https://nakamura196.github.io/portal_iiif/data/tori/0473986b-d6d2-4e6f-bfa4-e9cf48ab668e.json/canvas/p2",
                             "resource": {
                                 "@id": "http://www.uf.a.u-tokyo.ac.jp/tori/species/ootaka/02.jpg",
                                 "@type": "dctypes:Image",
@@ -106,15 +106,15 @@
                     "width": 780
                 },
                 {
-                    "@id": "http://www.uf.a.u-tokyo.ac.jp/tori/species/ootaka/ootaka.html/canvas/p3",
+                    "@id": "https://nakamura196.github.io/portal_iiif/data/tori/0473986b-d6d2-4e6f-bfa4-e9cf48ab668e.json/canvas/p3",
                     "@type": "sc:Canvas",
                     "height": 500,
                     "images": [
                         {
-                            "@id": "http://www.uf.a.u-tokyo.ac.jp/tori/species/ootaka/ootaka.html/annotation/p3-image",
+                            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/0473986b-d6d2-4e6f-bfa4-e9cf48ab668e.json/annotation/p3-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "http://www.uf.a.u-tokyo.ac.jp/tori/species/ootaka/ootaka.html/canvas/p3",
+                            "on": "https://nakamura196.github.io/portal_iiif/data/tori/0473986b-d6d2-4e6f-bfa4-e9cf48ab668e.json/canvas/p3",
                             "resource": {
                                 "@id": "http://www.uf.a.u-tokyo.ac.jp/tori/species/ootaka/03.jpg",
                                 "@type": "dctypes:Image",
@@ -131,15 +131,15 @@
                     "width": 780
                 },
                 {
-                    "@id": "http://www.uf.a.u-tokyo.ac.jp/tori/species/ootaka/ootaka.html/canvas/p4",
+                    "@id": "https://nakamura196.github.io/portal_iiif/data/tori/0473986b-d6d2-4e6f-bfa4-e9cf48ab668e.json/canvas/p4",
                     "@type": "sc:Canvas",
                     "height": 500,
                     "images": [
                         {
-                            "@id": "http://www.uf.a.u-tokyo.ac.jp/tori/species/ootaka/ootaka.html/annotation/p4-image",
+                            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/0473986b-d6d2-4e6f-bfa4-e9cf48ab668e.json/annotation/p4-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "http://www.uf.a.u-tokyo.ac.jp/tori/species/ootaka/ootaka.html/canvas/p4",
+                            "on": "https://nakamura196.github.io/portal_iiif/data/tori/0473986b-d6d2-4e6f-bfa4-e9cf48ab668e.json/canvas/p4",
                             "resource": {
                                 "@id": "http://www.uf.a.u-tokyo.ac.jp/tori/species/ootaka/04.jpg",
                                 "@type": "dctypes:Image",
@@ -156,15 +156,15 @@
                     "width": 780
                 },
                 {
-                    "@id": "http://www.uf.a.u-tokyo.ac.jp/tori/species/ootaka/ootaka.html/canvas/p5",
+                    "@id": "https://nakamura196.github.io/portal_iiif/data/tori/0473986b-d6d2-4e6f-bfa4-e9cf48ab668e.json/canvas/p5",
                     "@type": "sc:Canvas",
                     "height": 500,
                     "images": [
                         {
-                            "@id": "http://www.uf.a.u-tokyo.ac.jp/tori/species/ootaka/ootaka.html/annotation/p5-image",
+                            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/0473986b-d6d2-4e6f-bfa4-e9cf48ab668e.json/annotation/p5-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "http://www.uf.a.u-tokyo.ac.jp/tori/species/ootaka/ootaka.html/canvas/p5",
+                            "on": "https://nakamura196.github.io/portal_iiif/data/tori/0473986b-d6d2-4e6f-bfa4-e9cf48ab668e.json/canvas/p5",
                             "resource": {
                                 "@id": "http://www.uf.a.u-tokyo.ac.jp/tori/species/ootaka/05.jpg",
                                 "@type": "dctypes:Image",

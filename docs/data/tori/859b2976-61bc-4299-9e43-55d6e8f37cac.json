@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "http://www.uf.a.u-tokyo.ac.jp/tori/species/mizogoi/mizogoi.html",
+    "@id": "https://nakamura196.github.io/portal_iiif/data/tori/859b2976-61bc-4299-9e43-55d6e8f37cac.json",
     "@type": "sc:Manifest",
     "attribution": "農学生命科学研究科・農学部",
     "label": "ミゾゴイ",
@@ -52,19 +52,19 @@
     "seeAlso": "https://da.dl.itc.u-tokyo.ac.jp/portal/assets/859b2976-61bc-4299-9e43-55d6e8f37cac?_format=json",
     "sequences": [
         {
-            "@id": "http://www.uf.a.u-tokyo.ac.jp/tori/species/mizogoi/mizogoi.html/sequence/normal",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/859b2976-61bc-4299-9e43-55d6e8f37cac.json/sequence/normal",
             "@type": "sc:Sequence",
             "canvases": [
                 {
-                    "@id": "http://www.uf.a.u-tokyo.ac.jp/tori/species/mizogoi/mizogoi.html/canvas/p1",
+                    "@id": "https://nakamura196.github.io/portal_iiif/data/tori/859b2976-61bc-4299-9e43-55d6e8f37cac.json/canvas/p1",
                     "@type": "sc:Canvas",
                     "height": 500,
                     "images": [
                         {
-                            "@id": "http://www.uf.a.u-tokyo.ac.jp/tori/species/mizogoi/mizogoi.html/annotation/p1-image",
+                            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/859b2976-61bc-4299-9e43-55d6e8f37cac.json/annotation/p1-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "http://www.uf.a.u-tokyo.ac.jp/tori/species/mizogoi/mizogoi.html/canvas/p1",
+                            "on": "https://nakamura196.github.io/portal_iiif/data/tori/859b2976-61bc-4299-9e43-55d6e8f37cac.json/canvas/p1",
                             "resource": {
                                 "@id": "http://www.uf.a.u-tokyo.ac.jp/tori/species/mizogoi/01.jpg",
                                 "@type": "dctypes:Image",
@@ -81,15 +81,15 @@
                     "width": 780
                 },
                 {
-                    "@id": "http://www.uf.a.u-tokyo.ac.jp/tori/species/mizogoi/mizogoi.html/canvas/p2",
+                    "@id": "https://nakamura196.github.io/portal_iiif/data/tori/859b2976-61bc-4299-9e43-55d6e8f37cac.json/canvas/p2",
                     "@type": "sc:Canvas",
                     "height": 500,
                     "images": [
                         {
-                            "@id": "http://www.uf.a.u-tokyo.ac.jp/tori/species/mizogoi/mizogoi.html/annotation/p2-image",
+                            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/859b2976-61bc-4299-9e43-55d6e8f37cac.json/annotation/p2-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "http://www.uf.a.u-tokyo.ac.jp/tori/species/mizogoi/mizogoi.html/canvas/p2",
+                            "on": "https://nakamura196.github.io/portal_iiif/data/tori/859b2976-61bc-4299-9e43-55d6e8f37cac.json/canvas/p2",
                             "resource": {
                                 "@id": "http://www.uf.a.u-tokyo.ac.jp/tori/species/mizogoi/02.jpg",
                                 "@type": "dctypes:Image",

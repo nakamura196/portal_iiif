@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "http://www.uf.a.u-tokyo.ac.jp/tori/species/kumagera/kumagera.html",
+    "@id": "https://nakamura196.github.io/portal_iiif/data/tori/63e180bb-01ae-499c-a472-b1892636b74b.json",
     "@type": "sc:Manifest",
     "attribution": "農学生命科学研究科・農学部",
     "label": "クマゲラ",
@@ -52,19 +52,19 @@
     "seeAlso": "https://da.dl.itc.u-tokyo.ac.jp/portal/assets/63e180bb-01ae-499c-a472-b1892636b74b?_format=json",
     "sequences": [
         {
-            "@id": "http://www.uf.a.u-tokyo.ac.jp/tori/species/kumagera/kumagera.html/sequence/normal",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/63e180bb-01ae-499c-a472-b1892636b74b.json/sequence/normal",
             "@type": "sc:Sequence",
             "canvases": [
                 {
-                    "@id": "http://www.uf.a.u-tokyo.ac.jp/tori/species/kumagera/kumagera.html/canvas/p1",
+                    "@id": "https://nakamura196.github.io/portal_iiif/data/tori/63e180bb-01ae-499c-a472-b1892636b74b.json/canvas/p1",
                     "@type": "sc:Canvas",
                     "height": 500,
                     "images": [
                         {
-                            "@id": "http://www.uf.a.u-tokyo.ac.jp/tori/species/kumagera/kumagera.html/annotation/p1-image",
+                            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/63e180bb-01ae-499c-a472-b1892636b74b.json/annotation/p1-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "http://www.uf.a.u-tokyo.ac.jp/tori/species/kumagera/kumagera.html/canvas/p1",
+                            "on": "https://nakamura196.github.io/portal_iiif/data/tori/63e180bb-01ae-499c-a472-b1892636b74b.json/canvas/p1",
                             "resource": {
                                 "@id": "http://www.uf.a.u-tokyo.ac.jp/tori/species/kumagera/01.jpg",
                                 "@type": "dctypes:Image",
@@ -81,15 +81,15 @@
                     "width": 780
                 },
                 {
-                    "@id": "http://www.uf.a.u-tokyo.ac.jp/tori/species/kumagera/kumagera.html/canvas/p2",
+                    "@id": "https://nakamura196.github.io/portal_iiif/data/tori/63e180bb-01ae-499c-a472-b1892636b74b.json/canvas/p2",
                     "@type": "sc:Canvas",
                     "height": 500,
                     "images": [
                         {
-                            "@id": "http://www.uf.a.u-tokyo.ac.jp/tori/species/kumagera/kumagera.html/annotation/p2-image",
+                            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/63e180bb-01ae-499c-a472-b1892636b74b.json/annotation/p2-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "http://www.uf.a.u-tokyo.ac.jp/tori/species/kumagera/kumagera.html/canvas/p2",
+                            "on": "https://nakamura196.github.io/portal_iiif/data/tori/63e180bb-01ae-499c-a472-b1892636b74b.json/canvas/p2",
                             "resource": {
                                 "@id": "http://www.uf.a.u-tokyo.ac.jp/tori/species/kumagera/02.jpg",
                                 "@type": "dctypes:Image",
@@ -106,15 +106,15 @@
                     "width": 780
                 },
                 {
-                    "@id": "http://www.uf.a.u-tokyo.ac.jp/tori/species/kumagera/kumagera.html/canvas/p3",
+                    "@id": "https://nakamura196.github.io/portal_iiif/data/tori/63e180bb-01ae-499c-a472-b1892636b74b.json/canvas/p3",
                     "@type": "sc:Canvas",
                     "height": 500,
                     "images": [
                         {
-                            "@id": "http://www.uf.a.u-tokyo.ac.jp/tori/species/kumagera/kumagera.html/annotation/p3-image",
+                            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/63e180bb-01ae-499c-a472-b1892636b74b.json/annotation/p3-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "http://www.uf.a.u-tokyo.ac.jp/tori/species/kumagera/kumagera.html/canvas/p3",
+                            "on": "https://nakamura196.github.io/portal_iiif/data/tori/63e180bb-01ae-499c-a472-b1892636b74b.json/canvas/p3",
                             "resource": {
                                 "@id": "http://www.uf.a.u-tokyo.ac.jp/tori/species/kumagera/03.jpg",
                                 "@type": "dctypes:Image",
@@ -131,15 +131,15 @@
                     "width": 780
                 },
                 {
-                    "@id": "http://www.uf.a.u-tokyo.ac.jp/tori/species/kumagera/kumagera.html/canvas/p4",
+                    "@id": "https://nakamura196.github.io/portal_iiif/data/tori/63e180bb-01ae-499c-a472-b1892636b74b.json/canvas/p4",
                     "@type": "sc:Canvas",
                     "height": 500,
                     "images": [
                         {
-                            "@id": "http://www.uf.a.u-tokyo.ac.jp/tori/species/kumagera/kumagera.html/annotation/p4-image",
+                            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/63e180bb-01ae-499c-a472-b1892636b74b.json/annotation/p4-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "http://www.uf.a.u-tokyo.ac.jp/tori/species/kumagera/kumagera.html/canvas/p4",
+                            "on": "https://nakamura196.github.io/portal_iiif/data/tori/63e180bb-01ae-499c-a472-b1892636b74b.json/canvas/p4",
                             "resource": {
                                 "@id": "http://www.uf.a.u-tokyo.ac.jp/tori/species/kumagera/04.jpg",
                                 "@type": "dctypes:Image",

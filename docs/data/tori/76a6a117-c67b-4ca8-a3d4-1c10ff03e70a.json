@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "http://www.uf.a.u-tokyo.ac.jp/tori/species/tsutsudori/tsutsudori.html",
+    "@id": "https://nakamura196.github.io/portal_iiif/data/tori/76a6a117-c67b-4ca8-a3d4-1c10ff03e70a.json",
     "@type": "sc:Manifest",
     "attribution": "農学生命科学研究科・農学部",
     "label": "ツツドリ",
@@ -52,19 +52,19 @@
     "seeAlso": "https://da.dl.itc.u-tokyo.ac.jp/portal/assets/76a6a117-c67b-4ca8-a3d4-1c10ff03e70a?_format=json",
     "sequences": [
         {
-            "@id": "http://www.uf.a.u-tokyo.ac.jp/tori/species/tsutsudori/tsutsudori.html/sequence/normal",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/76a6a117-c67b-4ca8-a3d4-1c10ff03e70a.json/sequence/normal",
             "@type": "sc:Sequence",
             "canvases": [
                 {
-                    "@id": "http://www.uf.a.u-tokyo.ac.jp/tori/species/tsutsudori/tsutsudori.html/canvas/p1",
+                    "@id": "https://nakamura196.github.io/portal_iiif/data/tori/76a6a117-c67b-4ca8-a3d4-1c10ff03e70a.json/canvas/p1",
                     "@type": "sc:Canvas",
                     "height": 500,
                     "images": [
                         {
-                            "@id": "http://www.uf.a.u-tokyo.ac.jp/tori/species/tsutsudori/tsutsudori.html/annotation/p1-image",
+                            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/76a6a117-c67b-4ca8-a3d4-1c10ff03e70a.json/annotation/p1-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "http://www.uf.a.u-tokyo.ac.jp/tori/species/tsutsudori/tsutsudori.html/canvas/p1",
+                            "on": "https://nakamura196.github.io/portal_iiif/data/tori/76a6a117-c67b-4ca8-a3d4-1c10ff03e70a.json/canvas/p1",
                             "resource": {
                                 "@id": "http://www.uf.a.u-tokyo.ac.jp/tori/species/tsutsudori/01.jpg",
                                 "@type": "dctypes:Image",
