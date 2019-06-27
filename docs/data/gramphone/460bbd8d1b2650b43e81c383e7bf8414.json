@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "http://umdb.um.u-tokyo.ac.jp/DImt/Gramophone/list/browserecord.php?-action=browse&-recid=305&-list=available",
+    "@id": "https://nakamura196.github.io/portal_iiif/data/gramphone/460bbd8d1b2650b43e81c383e7bf8414.json",
     "@type": "sc:Manifest",
     "attribution": "総合研究博物館",
     "label": "ジェムD型 [319022D] Gem Model D [319022D]",
@@ -11,19 +11,19 @@
     "seeAlso": "https://da.dl.itc.u-tokyo.ac.jp/portal/assets/460bbd8d1b2650b43e81c383e7bf8414?_format=json",
     "sequences": [
         {
-            "@id": "http://umdb.um.u-tokyo.ac.jp/DImt/Gramophone/list/browserecord.php?-action=browse&-recid=305&-list=available/sequence/normal",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/gramphone/460bbd8d1b2650b43e81c383e7bf8414.json/sequence/normal",
             "@type": "sc:Sequence",
             "canvases": [
                 {
-                    "@id": "http://umdb.um.u-tokyo.ac.jp/DImt/Gramophone/list/browserecord.php?-action=browse&-recid=305&-list=available/canvas/p1",
+                    "@id": "https://nakamura196.github.io/portal_iiif/data/gramphone/460bbd8d1b2650b43e81c383e7bf8414.json/canvas/p1",
                     "@type": "sc:Canvas",
                     "height": 338,
                     "images": [
                         {
-                            "@id": "http://umdb.um.u-tokyo.ac.jp/DImt/Gramophone/list/browserecord.php?-action=browse&-recid=305&-list=available/annotation/p1-image",
+                            "@id": "https://nakamura196.github.io/portal_iiif/data/gramphone/460bbd8d1b2650b43e81c383e7bf8414.json/annotation/p1-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "http://umdb.um.u-tokyo.ac.jp/DImt/Gramophone/list/browserecord.php?-action=browse&-recid=305&-list=available/canvas/p1",
+                            "on": "https://nakamura196.github.io/portal_iiif/data/gramphone/460bbd8d1b2650b43e81c383e7bf8414.json/canvas/p1",
                             "resource": {
                                 "@id": "http://umdb.um.u-tokyo.ac.jp/DImt/Gramophone/JPG//091_16182.jpg",
                                 "@type": "dctypes:Image",

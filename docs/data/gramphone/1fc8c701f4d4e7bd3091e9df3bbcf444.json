@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "http://umdb.um.u-tokyo.ac.jp/DImt/Gramophone/list/browserecord.php?-action=browse&-recid=348&-list=available",
+    "@id": "https://nakamura196.github.io/portal_iiif/data/gramphone/1fc8c701f4d4e7bd3091e9df3bbcf444.json",
     "@type": "sc:Manifest",
     "attribution": "総合研究博物館",
     "label": "オルトフォニック・ヴィクトローラJ-1-51型 [7994] Orthophonic Victrola J-1-51 [7994]",
@@ -11,19 +11,19 @@
     "seeAlso": "https://da.dl.itc.u-tokyo.ac.jp/portal/assets/1fc8c701f4d4e7bd3091e9df3bbcf444?_format=json",
     "sequences": [
         {
-            "@id": "http://umdb.um.u-tokyo.ac.jp/DImt/Gramophone/list/browserecord.php?-action=browse&-recid=348&-list=available/sequence/normal",
+            "@id": "https://nakamura196.github.io/portal_iiif/data/gramphone/1fc8c701f4d4e7bd3091e9df3bbcf444.json/sequence/normal",
             "@type": "sc:Sequence",
             "canvases": [
                 {
-                    "@id": "http://umdb.um.u-tokyo.ac.jp/DImt/Gramophone/list/browserecord.php?-action=browse&-recid=348&-list=available/canvas/p1",
+                    "@id": "https://nakamura196.github.io/portal_iiif/data/gramphone/1fc8c701f4d4e7bd3091e9df3bbcf444.json/canvas/p1",
                     "@type": "sc:Canvas",
                     "height": 450,
                     "images": [
                         {
-                            "@id": "http://umdb.um.u-tokyo.ac.jp/DImt/Gramophone/list/browserecord.php?-action=browse&-recid=348&-list=available/annotation/p1-image",
+                            "@id": "https://nakamura196.github.io/portal_iiif/data/gramphone/1fc8c701f4d4e7bd3091e9df3bbcf444.json/annotation/p1-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "http://umdb.um.u-tokyo.ac.jp/DImt/Gramophone/list/browserecord.php?-action=browse&-recid=348&-list=available/canvas/p1",
+                            "on": "https://nakamura196.github.io/portal_iiif/data/gramphone/1fc8c701f4d4e7bd3091e9df3bbcf444.json/canvas/p1",
                             "resource": {
                                 "@id": "http://umdb.um.u-tokyo.ac.jp/DImt/Gramophone/JPG//192_16369.jpg",
                                 "@type": "dctypes:Image",

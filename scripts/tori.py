@@ -5,6 +5,8 @@ from time import sleep
 import json
 from PIL import Image
 
+collection = "tori"
+base_url = "https://da.dl.itc.u-tokyo.ac.jp/portal/search?collection=136&sort_by=field_title&page=0&_format=json&page="
 
 def get_thumbnal(img_url):
     return img_url.replace(".jpg", "s.jpg")
@@ -104,7 +106,9 @@ def do_one(uri):
             "label": tmp[0],
             "value": tmp[1]
         })
-    manifest_uri = url
+    
+    manifest_uri = "https://nakamura196.github.io/portal_iiif/data/" + \
+        collection+"/"+id+".json"
 
     html = urllib.request.urlopen(url)
 
@@ -136,7 +140,7 @@ def do_one(uri):
 
     manifest = create_manifest(manifest_uri, label, param, img_arr)
 
-    file = "../data/tori/"+id+".json"
+    file = "../docs/data/"+collection+"/"+id+".json"
     f2 = open(file, 'w')
     json.dump(manifest, f2, ensure_ascii=False, indent=4,
               sort_keys=True, separators=(',', ': '))
@@ -145,12 +149,10 @@ def do_one(uri):
 if __name__ == '__main__':
 
     loop_flg = True
-    page = 1
-
-    api_url = "https://da.dl.itc.u-tokyo.ac.jp/portal/search?collection=136&sort_by=field_title&page=0&_format=json&page="
+    page = 0
 
     while loop_flg:
-        url = api_url + str(
+        url = base_url + str(
             page)
         print(url)
 

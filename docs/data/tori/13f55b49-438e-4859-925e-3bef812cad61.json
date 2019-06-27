@@ -1,0 +1,190 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://nakamura196.github.io/portal_iiif/data/tori/13f55b49-438e-4859-925e-3bef812cad61.json",
+    "@type": "sc:Manifest",
+    "attribution": "農学生命科学研究科・農学部",
+    "label": "アオサギ",
+    "license": "http://www.uf.a.u-tokyo.ac.jp/tori/",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "metadata": [
+        {
+            "label": "種名",
+            "value": "アオサギ"
+        },
+        {
+            "label": "学名",
+            "value": "Ardea cinerea"
+        },
+        {
+            "label": "目科",
+            "value": "ペリカン目サギ科"
+        },
+        {
+            "label": "千葉演習林",
+            "value": "留鳥観察頻度は低い"
+        },
+        {
+            "label": "北海道演習林",
+            "value": "夏鳥\r\n観察頻度は低い"
+        },
+        {
+            "label": "秩父演習林",
+            "value": "留鳥\r\n観察頻度は稀"
+        },
+        {
+            "label": "田無演習林",
+            "value": "記録なし"
+        },
+        {
+            "label": "生態水文学研究所",
+            "value": "留鳥\r\n観察頻度は稀"
+        },
+        {
+            "label": "富士癒しの森研究所",
+            "value": "留鳥\r\n観察頻度は稀"
+        },
+        {
+            "label": "樹芸研究所",
+            "value": "留鳥\r\n観察頻度は普通"
+        }
+    ],
+    "related": "http://www.uf.a.u-tokyo.ac.jp/tori/species/aosagi/aosagi.html",
+    "seeAlso": "https://da.dl.itc.u-tokyo.ac.jp/portal/assets/13f55b49-438e-4859-925e-3bef812cad61?_format=json",
+    "sequences": [
+        {
+            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/13f55b49-438e-4859-925e-3bef812cad61.json/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://nakamura196.github.io/portal_iiif/data/tori/13f55b49-438e-4859-925e-3bef812cad61.json/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 500,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/13f55b49-438e-4859-925e-3bef812cad61.json/annotation/p1-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/portal_iiif/data/tori/13f55b49-438e-4859-925e-3bef812cad61.json/canvas/p1",
+                            "resource": {
+                                "@id": "http://www.uf.a.u-tokyo.ac.jp/tori/species/aosagi/01.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 500,
+                                "width": 780
+                            }
+                        }
+                    ],
+                    "label": "[1]",
+                    "thumbnail": {
+                        "@id": "http://www.uf.a.u-tokyo.ac.jp/tori/species/aosagi/01s.jpg"
+                    },
+                    "width": 780
+                },
+                {
+                    "@id": "https://nakamura196.github.io/portal_iiif/data/tori/13f55b49-438e-4859-925e-3bef812cad61.json/canvas/p2",
+                    "@type": "sc:Canvas",
+                    "height": 500,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/13f55b49-438e-4859-925e-3bef812cad61.json/annotation/p2-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/portal_iiif/data/tori/13f55b49-438e-4859-925e-3bef812cad61.json/canvas/p2",
+                            "resource": {
+                                "@id": "http://www.uf.a.u-tokyo.ac.jp/tori/species/aosagi/02.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 500,
+                                "width": 780
+                            }
+                        }
+                    ],
+                    "label": "[2]",
+                    "thumbnail": {
+                        "@id": "http://www.uf.a.u-tokyo.ac.jp/tori/species/aosagi/02s.jpg"
+                    },
+                    "width": 780
+                },
+                {
+                    "@id": "https://nakamura196.github.io/portal_iiif/data/tori/13f55b49-438e-4859-925e-3bef812cad61.json/canvas/p3",
+                    "@type": "sc:Canvas",
+                    "height": 500,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/13f55b49-438e-4859-925e-3bef812cad61.json/annotation/p3-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/portal_iiif/data/tori/13f55b49-438e-4859-925e-3bef812cad61.json/canvas/p3",
+                            "resource": {
+                                "@id": "http://www.uf.a.u-tokyo.ac.jp/tori/species/aosagi/03.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 500,
+                                "width": 780
+                            }
+                        }
+                    ],
+                    "label": "[3]",
+                    "thumbnail": {
+                        "@id": "http://www.uf.a.u-tokyo.ac.jp/tori/species/aosagi/03s.jpg"
+                    },
+                    "width": 780
+                },
+                {
+                    "@id": "https://nakamura196.github.io/portal_iiif/data/tori/13f55b49-438e-4859-925e-3bef812cad61.json/canvas/p4",
+                    "@type": "sc:Canvas",
+                    "height": 500,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/13f55b49-438e-4859-925e-3bef812cad61.json/annotation/p4-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/portal_iiif/data/tori/13f55b49-438e-4859-925e-3bef812cad61.json/canvas/p4",
+                            "resource": {
+                                "@id": "http://www.uf.a.u-tokyo.ac.jp/tori/species/aosagi/04.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 500,
+                                "width": 780
+                            }
+                        }
+                    ],
+                    "label": "[4]",
+                    "thumbnail": {
+                        "@id": "http://www.uf.a.u-tokyo.ac.jp/tori/species/aosagi/04s.jpg"
+                    },
+                    "width": 780
+                },
+                {
+                    "@id": "https://nakamura196.github.io/portal_iiif/data/tori/13f55b49-438e-4859-925e-3bef812cad61.json/canvas/p5",
+                    "@type": "sc:Canvas",
+                    "height": 500,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/portal_iiif/data/tori/13f55b49-438e-4859-925e-3bef812cad61.json/annotation/p5-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/portal_iiif/data/tori/13f55b49-438e-4859-925e-3bef812cad61.json/canvas/p5",
+                            "resource": {
+                                "@id": "http://www.uf.a.u-tokyo.ac.jp/tori/species/aosagi/05.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 500,
+                                "width": 780
+                            }
+                        }
+                    ],
+                    "label": "[5]",
+                    "thumbnail": {
+                        "@id": "http://www.uf.a.u-tokyo.ac.jp/tori/species/aosagi/05s.jpg"
+                    },
+                    "width": 780
+                }
+            ],
+            "label": "Current Page Order",
+            "viewingHint": "non-paged"
+        }
+    ],
+    "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/enshurin_tori/13f55b49-438e-4859-925e-3bef812cad61.jpg",
+    "within": "東京大学演習林の鳥たち"
+}

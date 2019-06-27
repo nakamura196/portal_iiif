@@ -5,8 +5,13 @@ from time import sleep
 import json
 from PIL import Image
 
+collection = "gramphone"
+base_url = "https://da.dl.itc.u-tokyo.ac.jp/portal/search?collection=102&sort_by=field_title&_format=json"
+
+
 def get_thumbnal(img_url):
     return img_url
+
 
 def create_manifest(manifest_uri, label, param, imgs):
     sequence_uri = manifest_uri+"/sequence/normal"
@@ -74,9 +79,7 @@ def create_manifest(manifest_uri, label, param, imgs):
 
         anno_uri = manifest_uri+"/annotation/p"+page+"-image"
 
-        
         tmp["images"][0]["@id"] = anno_uri
-        
 
         tmp["images"][0]["resource"]["@id"] = img_url
 
@@ -85,6 +88,7 @@ def create_manifest(manifest_uri, label, param, imgs):
         canvases.append(tmp)
 
     return manifest
+
 
 def get_img_arr(soup):
     img_arr = []
@@ -100,8 +104,8 @@ def get_img_arr(soup):
         img_arr.append(img_url)
     return img_arr
 
+
 def do_one(uri):
-    
 
     res = urllib.request.urlopen(uri)
     # json_loads() でPythonオブジェクトに変換
@@ -116,10 +120,11 @@ def do_one(uri):
         for desc in desc_arr:
             tmp = desc.split(": ")
             metadata.append({
-                "label" : tmp[0],
+                "label": tmp[0],
                 "value": tmp[1]
             })
-    manifest_uri = url
+    manifest_uri = "https://nakamura196.github.io/portal_iiif/data/" + \
+        collection+"/"+id+".json"
 
     html = urllib.request.urlopen(url)
 
@@ -141,17 +146,16 @@ def do_one(uri):
 
     manifest = create_manifest(manifest_uri, label, param, img_arr)
 
-    file = "../data/gramphone/"+id+".json"
+    file = "../docs/data/"+collection+"/"+id+".json"
     f2 = open(file, 'w')
     json.dump(manifest, f2, ensure_ascii=False, indent=4,
-                sort_keys=True, separators=(',', ': '))
+              sort_keys=True, separators=(',', ': '))
+
 
 if __name__ == '__main__':
 
     loop_flg = True
     page = 0
-
-    base_url = "https://da.dl.itc.u-tokyo.ac.jp/portal/search?collection=102&sort_by=field_title&_format=json"
 
     api_url = base_url+"&page="
 
@@ -171,7 +175,3 @@ if __name__ == '__main__':
 
         if len(data) == 0:
             loop_flg = False
-
-             
-
-
