@@ -1,0 +1,52 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/fba1ab64cfb2cb7b6088961c1afbc881.json",
+    "@type": "sc:Manifest",
+    "attribution": "経済学研究科・経済学部",
+    "label": "三国通用札",
+    "license": "http://www.lib.e.u-tokyo.ac.jp/wp-content/uploads/2011/07/f8dea4a934396828de955574b6b05193.pdf",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "metadata": [
+        {
+            "label": "額面/Face value",
+            "value": "銭五貫文"
+        },
+        {
+            "label": "地域3/Region3",
+            "value": "薩摩　鹿児島藩"
+        },
+        {
+            "label": "引換所/Currency exchange offices",
+            "value": "国鈔会所"
+        },
+        {
+            "label": "通用地域/Community",
+            "value": "薩摩　鹿児島藩領内"
+        },
+        {
+            "label": "コレクション（所蔵館）/Collection(Institution)",
+            "value": "東京大学経済学図書館;The Library of Economics, UTokyo"
+        },
+        {
+            "label": "コレクション2/Collection2",
+            "value": "古札;Historical Bills Collection"
+        },
+        {
+            "label": "コレクション3/Collection3",
+            "value": "01_安田コレクション;01_Yasuda Zenjiro's collection"
+        }
+    ],
+    "related": "https://www.i-repository.net/il/meta_pub/G0000381kahei_2003-12-23 00:00:00",
+    "seeAlso": "https://da.dl.itc.u-tokyo.ac.jp/portal/assets/fba1ab64cfb2cb7b6088961c1afbc881?_format=json",
+    "sequences": [
+        {
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/fba1ab64cfb2cb7b6088961c1afbc881.json/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [],
+            "label": "Current Page Order",
+            "viewingHint": "non-paged"
+        }
+    ],
+    "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/fba1ab64cfb2cb7b6088961c1afbc881_0.jpg",
+    "within": "古貨幣・古札統合データベース"
+}

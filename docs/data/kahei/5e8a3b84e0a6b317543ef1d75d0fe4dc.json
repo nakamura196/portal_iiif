@@ -1,0 +1,66 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/5e8a3b84e0a6b317543ef1d75d0fe4dc.json",
+    "@type": "sc:Manifest",
+    "attribution": "経済学研究科・経済学部",
+    "label": "一銭銅貨（明治六年式）",
+    "license": "http://www.lib.e.u-tokyo.ac.jp/wp-content/uploads/2011/07/f8dea4a934396828de955574b6b05193.pdf",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "metadata": [
+        {
+            "label": "材質/Material",
+            "value": "銅"
+        },
+        {
+            "label": "コレクション（所蔵館）/Collection(Institution)",
+            "value": "東京大学経済学図書館;The Library of Economics, UTokyo"
+        },
+        {
+            "label": "コレクション2/Collection2",
+            "value": "古貨幣;Historical Coins Collection"
+        },
+        {
+            "label": "コレクション3/Collection3",
+            "value": "01_藤井コレクション;01_Fujii Eisaburo’s collection"
+        }
+    ],
+    "related": "https://www.i-repository.net/il/meta_pub/G0000381kahei_102-A-2",
+    "seeAlso": "https://da.dl.itc.u-tokyo.ac.jp/portal/assets/5e8a3b84e0a6b317543ef1d75d0fe4dc?_format=json",
+    "sequences": [
+        {
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/5e8a3b84e0a6b317543ef1d75d0fe4dc.json/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/5e8a3b84e0a6b317543ef1d75d0fe4dc.json/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 2290,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/5e8a3b84e0a6b317543ef1d75d0fe4dc.json/annotation/p1-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/portal_iiif/data/kahei/5e8a3b84e0a6b317543ef1d75d0fe4dc.json/canvas/p1",
+                            "resource": {
+                                "@id": "http://www.lib.e.u-tokyo.ac.jp/digitalarchive/kokahei/102-A-2.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2290,
+                                "width": 3000
+                            }
+                        }
+                    ],
+                    "label": "[1]",
+                    "thumbnail": {
+                        "@id": "http://www.lib.e.u-tokyo.ac.jp/digitalarchive/kokahei/102-A-2.jpg"
+                    },
+                    "width": 3000
+                }
+            ],
+            "label": "Current Page Order",
+            "viewingHint": "non-paged"
+        }
+    ],
+    "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/5e8a3b84e0a6b317543ef1d75d0fe4dc_1.jpg",
+    "within": "古貨幣・古札統合データベース"
+}

@@ -1,0 +1,74 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/333cbe9a7fb585065f0b4e34afcea496.json",
+    "@type": "sc:Manifest",
+    "attribution": "経済学研究科・経済学部",
+    "label": "三陸米預切手",
+    "license": "http://www.lib.e.u-tokyo.ac.jp/wp-content/uploads/2011/07/f8dea4a934396828de955574b6b05193.pdf",
+    "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+    "metadata": [
+        {
+            "label": "額面/Face value",
+            "value": "七拾五俵"
+        },
+        {
+            "label": "引換所/Currency exchange offices",
+            "value": "米市場"
+        },
+        {
+            "label": "通用地域/Community",
+            "value": "通用地域不明"
+        },
+        {
+            "label": "コレクション（所蔵館）/Collection(Institution)",
+            "value": "東京大学経済学図書館;The Library of Economics, UTokyo"
+        },
+        {
+            "label": "コレクション2/Collection2",
+            "value": "古札;Historical Bills Collection"
+        },
+        {
+            "label": "コレクション3/Collection3",
+            "value": "01_安田コレクション;01_Yasuda Zenjiro's collection"
+        }
+    ],
+    "related": "https://www.i-repository.net/il/meta_pub/G0000381kahei_3-33-9",
+    "seeAlso": "https://da.dl.itc.u-tokyo.ac.jp/portal/assets/333cbe9a7fb585065f0b4e34afcea496?_format=json",
+    "sequences": [
+        {
+            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/333cbe9a7fb585065f0b4e34afcea496.json/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/333cbe9a7fb585065f0b4e34afcea496.json/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 3000,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/portal_iiif/data/kahei/333cbe9a7fb585065f0b4e34afcea496.json/annotation/p1-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/portal_iiif/data/kahei/333cbe9a7fb585065f0b4e34afcea496.json/canvas/p1",
+                            "resource": {
+                                "@id": "http://www.lib.e.u-tokyo.ac.jp/digitalarchive/kosatsu/3-33-9.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 3000,
+                                "width": 4125
+                            }
+                        }
+                    ],
+                    "label": "[1]",
+                    "thumbnail": {
+                        "@id": "http://www.lib.e.u-tokyo.ac.jp/digitalarchive/kosatsu/3-33-9.jpg"
+                    },
+                    "width": 4125
+                }
+            ],
+            "label": "Current Page Order",
+            "viewingHint": "non-paged"
+        }
+    ],
+    "thumbnail": "http://da.dl.itc.u-tokyo.ac.jp/portal/sites/default/files/images/assets/kahei/333cbe9a7fb585065f0b4e34afcea496_0.jpg",
+    "within": "古貨幣・古札統合データベース"
+}
